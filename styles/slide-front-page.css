@@ -3,7 +3,7 @@
 .remark-slide-content.slide-1 {
     background-color: black;
     background-image: url('../images/logo/logo-black-240x240.jpg');
-    background-position: right top;
+    background-position: 100% 20px;
     background-repeat: no-repeat;
     background-size: initial;
     color: white;

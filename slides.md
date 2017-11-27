@@ -1,6 +1,8 @@
 class: middle, center, slide-1
 
-# WarsawJS Workshop #11
+.size130[
+# WarsawJS Workshop #12
+]
 
 ---
 
@@ -10,11 +12,12 @@ class: middle, center
 
 ---
 
+exclude: true
 class: middle, center
 
 # Obiad
 
-## [bit.ly/warsawjs-workshop-11-lunch][lunch]
+## [bit.ly/warsawjs-workshop-12-lunch][lunch]
 
 ---
 
@@ -22,9 +25,8 @@ class: middle, center
 
 # Slack
 
-## #workshop-11
+## #workshop-12
 
-Komunikacja między uczestnikami.<br/>
 *Dostęp możliwy, kiedy dostaniesz zaproszenie.*
 <br/>
 
@@ -46,12 +48,10 @@ class: middle, center, slide-card-list
 
 ### &#x1F4DA; Trenerzy &#x1F4DA;
 
-.card[![](./images/avatars-trainers/marek-swiecicki.jpg) Marek Święcicki]
-.card[![](./images/avatars-trainers/anna-olchowik.jpg) Anna Olchowik]
-.card[![](./images/avatars-trainers/marcin-bychawski.jpg) Marcin Bychawski]
-
+.card[![](./images/avatars-trainers/piotr-kowalski.jpg) Piotr Kowalski]
 .card[![](./images/avatars-trainers/jakub-skalecki.jpg) Jakub Skałecki]
-.card[![](./images/avatars-trainers/michal-bury.png) Michał Bury]
+.card[![](./images/avatars-trainers/maciej-mackiewicz.jpg) Maciej Mackiewicz]
+.card[![](./images/avatars-trainers/pawel-mysior.jpg) Paweł Mysior]
 
 ---
 
@@ -64,13 +64,15 @@ class: middle, center
 
 ---
 
-### Zasady współpracy
+### Zasady współpracy 📋
 
 * Podział na grupy pod kątem zaawansowania (efekt selekcji)
-    - jeśli trafiłeś do grupy z nieodpowiednim dla Ciebie poziomem, daj znać!
+
+> **Jeśli trafiłeś do grupy z nieodpowiednim dla Ciebie poziomem, daj znać!**
+
 * Trener decyduje o prędkości realizacji projektu
-* Nie są to indywidualne zajęcia (pomagamy sobie nawzajem)
-* Odnosimy się do siebie po koleżeńsku (na "Ty")
+* Zajęcia grupowe - pomagamy sobie nawzajem
+* Odnosimy się do siebie po koleżeńsku
 * Każdy z uczestników wyraża zgodę na publikację wizerunku w social mediach
 
 A najważniejsza zasada to...
@@ -83,6 +85,8 @@ class: middle, center
 
 ---
 
+exclude: true
+
 ### Przerwy
 
 * Przerwa kawowa: **11:30 - 11:45** 
@@ -93,27 +97,32 @@ Dodatkowe przerwy, o których decyduje trener.
 
 ---
 
-exclude: true
 class: middle, center
 
-### Nazwa projektu
+# 💎 Nazwa projektu 💎
 
-## `warsawjs-workshop-11-smart-cookbook`
+.size60[
+## <mark>warsawjs-workshop-12-quiz</mark>
+]
 
 ---
 
-### Zakończenie
+# Zakończenie
 
+.size40[
 * Kodowanie kończymy o **18:00**
-* Ankieta: [bit.ly/warsawjs-workshop-11-ankieta][ankieta]
-* Chętni wychodzą na scenę ze swoim projektem
-* &#x2728;&#0160; Bonus na zakończenie!
+* Ankieta: [bit.ly/warsawjs-workshop-12-ankieta][ankieta]
+* **Chętni wychodzą na scenę ze swoim projektem**
+* 📦 Bonus na zakończenie!
+]
 
 ---
 
 class: middle, center
 
+.size120[
 # Poznajmy się &#x1F600;
+]
 
 ---
 
@@ -147,18 +156,18 @@ class: middle, center
 
 class: slide-1
 
-### WarsawJS Workshop #11
+.size70[
+# WarsawJS Workshop #12
+]
 
-* Nazwa projektu: `warsawjs-workshop-11-smart-cookbook`
-* Przerwy:
-    - kawowa: **11:30 - 11:45** 
-    - obiadowa: **13:00 - 13:30**
-    - kawowa: **15:30 - 15:45**
-* Zakończenie kodowania **18:00** &#x26D4;
+.size40[
 * Zrób zdjęcie, opublikuj je z hashtagiem `#warsawjs` i wygraj konkurs! &#x1F455;
-* Ankiety
-    - lunch: [bit.ly/warsawjs-workshop-11-lunch][lunch]
-    - podsumowanie: [bit.ly/warsawjs-workshop-11-ankieta][ankieta]
+* Zakończenie kodowania **18:00** &#x26D4;
+* Ankieta: [bit.ly/warsawjs-workshop-12-ankieta][ankieta]
+
+Nazwa projektu: `warsawjs-workshop-12-quiz`
+]
+
 
 ---
 
@@ -175,7 +184,7 @@ class: middle, center
 # Koniec &#x23F0; o 18:00
 
 ## &#x2728; Dyplomy &#x2728;
-## Ankieta: [bit.ly/warsawjs-workshop-11-ankieta][ankieta]
+## Ankieta: [bit.ly/warsawjs-workshop-12-ankieta][ankieta]
 
 ---
 
@@ -221,8 +230,8 @@ class: center, middle
 ]
 
 
-[ankieta]: http://bit.ly/warsawjs-workshop-11-ankieta
-[lunch]: http://bit.ly/warsawjs-workshop-11-lunch
+[ankieta]: http://bit.ly/warsawjs-workshop-12-ankieta
+[lunch]: http://bit.ly/warsawjs-workshop-12-lunch
 [twitter-hashtag]: https://twitter.com/hashtag/warsawjs?f=tweets&vertical=default
 [instagram-hashtag]: https://www.instagram.com/explore/tags/warsawjs/
 [facebook-hashtag]: https://www.facebook.com/hashtag/warsawjs

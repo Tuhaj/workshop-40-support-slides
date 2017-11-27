@@ -50,16 +50,16 @@ iframe {
 
 code {
     display: inline-block;
-    padding: 2px 15px;
-    margin: 3px 0;
     background: #444;
     color: white;
+    padding: 2px 15px;
+    margin: 3px 0;
 }
 
 mark {
-    background: #f0db4f;
     display: inline-block;
     padding: 0 15px;
+    background: #f0db4f;
 }
 
 /* -------------------------------------------------------------------------- */

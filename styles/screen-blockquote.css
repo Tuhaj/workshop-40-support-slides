@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+blockquote {
+    background: #f8f8f8;
+    margin: 0 0 10px 0;
+    border-left: 10px solid #eaedec;
+    padding: 0 0 0 10px;
+    font-style: italic;
+}
+
+blockquote:before,
+blockquote:after {
+    content: "\"";
+    display: inline-block;
+}
+
+blockquote p {
+    display: inline;
+    margin: 0;
+}
