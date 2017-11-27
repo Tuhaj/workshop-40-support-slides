@@ -1,6 +1,6 @@
 class: middle, center, slide-1
 
-# WarsawJS Workshop #9
+# WarsawJS Workshop #10
 
 ---
 
@@ -14,7 +14,7 @@ class: middle, center
 
 # Obiad
 
-## [bit.ly/warsawjs-workshop-9-lunch][lunch]
+## [bit.ly/warsawjs-workshop-10-lunch][lunch]
 
 ---
 
@@ -22,7 +22,7 @@ class: middle, center
 
 # Slack
 
-## #workshop-9
+## #workshop-10
 
 Komunikacja między uczestnikami.<br/>
 *Dostęp możliwy, kiedy dostaniesz zaproszenie.*
@@ -44,18 +44,19 @@ class: middle, center, slide-card-list
 
 class: middle, center, slide-card-list
 
-### &#x1F4DA; Trener &amp; Mentor &#x1F4DA;
+### &#x1F4DA; Trenerzy &#x1F4DA;
 
-.card[![](./images/hosts/piotr-kowalski.jpg) Piotr Kowalski]
+.card[![](./images/trainers/anna-olchowik.jpg) Anna Olchowik]
+.card[![](./images/trainers/daniel-siwek.jpg) Daniel Siwek]
+.card[![](./images/trainers/michal-bury.png) Michał Bury]
+.card[![](./images/trainers/piotr-zientara.jpg) Piotr Zientara]
 
 ---
 
 class: middle, center
 
 ![](./images/sponsors/artificial-logo-394x110.png)
-
-<hr/>
-
+![](./images/sponsors/evojam-logo-500x271.png)
 ![](./images/sponsors/software-plant-logo-500x210.png)
 
 ---
@@ -93,14 +94,14 @@ class: middle, center
 
 ### Nazwa projektu
 
-## `warsawjs-workshop-9-todo`
+## `warsawjs-workshop-10-budget`
 
 ---
 
 ### Zakończenie
 
 * Kodowanie kończymy o **18:00**
-* Ankieta: [bit.ly/warsawjs-workshop-9-ankieta][ankieta]
+* Ankieta: [bit.ly/warsawjs-workshop-10-ankieta][ankieta]
 * Chętni wychodzą na scenę ze swoim projektem
 * &#x2728;&#0160; Bonus na zakończenie!
 
@@ -142,9 +143,9 @@ class: middle, center
 
 class: slide-1
 
-### WarsawJS Workshop #9
+### WarsawJS Workshop #10
 
-* Profil trenera: `github.com/piecioshka`
+* Nazwa projektu: `warsawjs-workshop-10-budget`
 * Przerwy:
     - kawowa: **11:30 - 11:45** 
     - obiadowa: **13:00 - 13:30**
@@ -152,8 +153,8 @@ class: slide-1
 * Zakończenie kodowania **18:00** &#x26D4;
 * Zrób zdjęcie, opublikuj je z hashtagiem `#warsawjs` i wygraj konkurs! &#x1F455;
 * Ankiety
-    - lunch: [bit.ly/warsawjs-workshop-9-lunch][lunch]
-    - podsumowanie: [bit.ly/warsawjs-workshop-9-ankieta][ankieta]
+    - lunch: [bit.ly/warsawjs-workshop-10-lunch][lunch]
+    - podsumowanie: [bit.ly/warsawjs-workshop-10-ankieta][ankieta]
 
 ---
 
@@ -170,7 +171,7 @@ class: middle, center
 # Koniec &#x23F0; o 18:00
 
 ## &#x2728; Dyplomy &#x2728;
-## Ankieta: [bit.ly/warsawjs-workshop-9-ankieta][ankieta]
+## Ankieta: [bit.ly/warsawjs-workshop-10-ankieta][ankieta]
 
 ---
 
@@ -199,27 +200,25 @@ class: middle, center
 
 # Dzięki za przybycie! &#x1F389;
 
-<hr/>
-
---
-.size50[
-📢 Specjalne ogłoszenie 📢 
-]
-
---
-## <mark>3 urodziny</mark> - <mark>13 września!</mark>
-
 ---
 
 class: center, middle
 
 # Prośba
 
+.size50[
 🙏 Wyrzućcie swoje śmieci do kosza 🙏
+]
+
+<hr/>
+
+.size40[
+📢 Dziękujemy 📢 
+]
 
 
-[ankieta]: http://bit.ly/warsawjs-workshop-9-ankieta
-[lunch]: http://bit.ly/warsawjs-workshop-9-lunch
+[ankieta]: http://bit.ly/warsawjs-workshop-10-ankieta
+[lunch]: http://bit.ly/warsawjs-workshop-10-lunch
 [twitter-hashtag]: https://twitter.com/hashtag/warsawjs?f=tweets&vertical=default
 [instagram-hashtag]: https://www.instagram.com/explore/tags/warsawjs/
 [facebook-hashtag]: https://www.facebook.com/hashtag/warsawjs
