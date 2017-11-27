@@ -1,17 +1,16 @@
 class: middle, center, slide-1
 
-# WarsawJS Workshop #3
+# WarsawJS Workshop #4
 
 ---
 
-class: slide-list-with-items-2
+class: slide-list-with-items-3
 
-### Wybierz poziom (Angular.js)
+### Wybierz poziom (Angular)
 
-* A) Brak znajomości
-* B) Mała znajomość - chcę się douczyć
-
-![](./images/angularjs-logo.svg)
+* A) Brak znajomości (gr. 5)
+* B) Mała znajomość (gr. 1, 2, 3)
+* C) Dobra znajomość (gr. 4)
 
 ---
 
@@ -52,8 +51,8 @@ class: middle, center, slide-card-list
 .card[![](./images/trainers/piotr-kowalski.jpg) Piotr Kowalski]
 .card[![](./images/trainers/piotr-blaszczak.jpg) Piotr Błaszczak]
 .card[![](./images/trainers/mateusz-kocz.png) Mateusz Kocz]
-.card[![](./images/trainers/marek-swiecicki.jpg) Marek Święcicki]
-.card[![](./images/trainers/marek-kasprzak.jpg) Marek Kasprzak]
+.card[![](./images/trainers/robert-gurgul.jpg) Robert Gurgul]
+.card[![](./images/trainers/krzysztof-bogucki.jpg) Krzysztof Bogucki]
 
 ---
 
@@ -75,19 +74,13 @@ class: middle, center
 * Uczestnicy przedstawiają się trenerowi
 * Każdy z uczestników wyraża zgodę na publikację wizerunku w social mediach
 
+A najważniejsza zasada to...
+
 ---
 
 class: middle, center
 
 # Nie ma głupich pytań
-
----
-
-### Rejestracja 
-
-* Skasowanie biletu (limit miejsc)
-* Kwestie dietetyczne
-* Podział na grupy zaawansowania
 
 ---
 
@@ -103,8 +96,8 @@ Dodatkowe przerwy, o których decyduje trener.
 
 ### Zakończenie
 
-* Kończymy punkt 18:00
-* Ankiety: [bit.ly/warsawjs-workshop-3-ankieta](http://bit.ly/warsawjs-workshop-3-ankieta)
+* Kodowanie kończymy o 18:00
+* Ankiety: [bit.ly/warsawjs-workshop-4-ankieta](http://bit.ly/warsawjs-workshop-4-ankieta)
 * Chętni wychodzą na scenę ze swoim projektem
 * &#x2728;&#0160; Bonus na zakończenie!
 
