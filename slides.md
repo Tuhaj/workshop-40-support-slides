@@ -1,43 +1,37 @@
 class: middle, center, slide-1
 
-# WarsawJS Workshop #2
+# WarsawJS Workshop #3
 
 ---
 
-### Wybierz poziom
+class: slide-list-with-items-2
 
-A) Początkujący
+### Wybierz poziom (Angular.js)
 
-```
-1. Wiem jaka jest różnica między `let` a `var` ?
-2. Wiem jak dodać element listy do listy w drzewie DOM
-3. Wiem jak słuchać na zdarzenia kliknięcia.
-```
+* A) Brak znajomości
+* B) Mała znajomość - chcę się douczyć
 
-B) Średni
-
-```
-1. Wiem jaka jest różnica między klasą a instancją obiektu.
-2. Wiem co to jest this.
-3. Wiem jak zmienić kolor tekstu znacznika h1?
-4. Wiem co to jest SPA.
-```
-
-C) Zaawansowany
-
-```
-1. Wiem w jaki sposób pobrać dane z serwera HTTP w języku JavaScript.
-2. Wiem po co są Promise-y.
-3. Wiem jakie są systemy szablonów.
-4. Wiem co to jest domknięcie / closure.
-5. Wiem co to jest MVC.
-```
+![](./images/angularjs-logo.svg)
 
 ---
 
 class: middle, center
 
 # I część: organizacyjna
+
+---
+
+class: middle, slide-social-media
+
+## **WarsawJS** w mediach społecznościowych
+
+* ![](./images/social/twitter.png) Twitter.com/`warsawjs`
+* ![](./images/social/facebook.png) Facebook.com/`warsawjs`
+* ![](./images/social/meetup.png) Meetup.com/`warsawjs`
+* ![](./images/social/youtube.png) YouTube.com/`warsawjs`
+
+## Pokaż jak się koduje! &#x1F600;
+## Zrób zdjęcie i opublikuj z tagiem `#warsawjs`
 
 ---
 
@@ -57,9 +51,9 @@ class: middle, center, slide-card-list
 
 .card[![](./images/trainers/piotr-kowalski.jpg) Piotr Kowalski]
 .card[![](./images/trainers/piotr-blaszczak.jpg) Piotr Błaszczak]
-.card[![](./images/trainers/rafal-gierczak.jpeg) Rafał Gierczak]
-.card[![](./images/trainers/robert-gurgul.jpg) Robert Gurgul]
-.card[![](./images/trainers/mariusz-lichota.jpg) Mariusz Lichota]
+.card[![](./images/trainers/mateusz-kocz.png) Mateusz Kocz]
+.card[![](./images/trainers/marek-swiecicki.jpg) Marek Święcicki]
+.card[![](./images/trainers/marek-kasprzak.jpg) Marek Kasprzak]
 
 ---
 
@@ -110,7 +104,7 @@ Dodatkowe przerwy, o których decyduje trener.
 ### Zakończenie
 
 * Kończymy punkt 18:00
-* Ankiety
+* Ankiety: [bit.ly/warsawjs-workshop-3-ankieta](http://bit.ly/warsawjs-workshop-3-ankieta)
 * Chętni wychodzą na scenę ze swoim projektem
 * &#x2728;&#0160; Bonus na zakończenie!
 

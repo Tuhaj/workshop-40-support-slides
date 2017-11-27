@@ -74,3 +74,39 @@ code {
     margin: 10px 30px;
     display: block;
 }
+
+/* -------------------------------------------------------------------------- */
+
+.slide-list-with-items-2 ul {
+    padding: 0;
+    margin: 0;
+}
+
+.slide-list-with-items-2 ul li {
+    padding: 40px 50px;
+    list-style: none;
+    font-size: 40px;
+    margin: 10px 0 0 0;
+    border-radius: 3px;
+}
+
+.slide-list-with-items-2 ul li:nth-of-type(1) {
+    background-color: #f1c40f;
+    color: black;
+}
+
+.slide-list-with-items-2 ul li:nth-of-type(2) {
+    background-color: #e74c3c;
+    color: #ecf0f1
+}
+
+/* -------------------------------------------------------------------------- */
+
+.remark-slide-content.slide-social-media ul li {
+    list-style: circle;
+    line-height: 40px;
+}
+
+.remark-slide-content.slide-social-media img {
+    vertical-align: middle;
+}
