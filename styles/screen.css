@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,900');
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Fira Sans', sans-serif;
+    margin-top: 0;
+}
+
+h1 {
+    font-size: 80px !important;
+}
+
+h2 {
+    font-weight: 300;
+}
+
+h3 {
+    border-bottom: 1px solid;
+    font-size: 45px !important;
+}
+
+a {
+    color: #2034f4;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+li {
+    line-height: 1.6em;
+}
+
+iframe {
+    border: 0;
+}
+
+code {
+    display: inline-block;
+    padding: 2px 15px;
+    margin: 3px 0;
+    background: #444;
+    color: white;
+}
+
+/* -------------------------------------------------------------------------- */
+
+.remark-slide-content {
+    margin-top: 0;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 26px;
+}
+
+.remark-slide-content.slide-1 {
+    background-color: black;
+    background-image: url('../images/logo/logo-black-240x240.jpg');
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-size: initial;
+    color: white;
+}
+
+/* -------------------------------------------------------------------------- */
+
+.slide-card-list p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.slide-card-list img {
+    width: 200px;
+    margin: 10px 30px;
+    display: block;
+}
