@@ -1,6 +1,6 @@
 class: middle, center, slide-1
 
-# WarsawJS Workshop #7
+# WarsawJS Workshop #8
 
 ---
 
@@ -14,7 +14,21 @@ class: middle, center
 
 # Obiad
 
-## [bit.ly/warsawjs-workshop-7-lunch][lunch]
+## [bit.ly/warsawjs-workshop-8-lunch][lunch]
+
+---
+
+class: middle, center
+
+# Slack
+
+## #workshop-8
+
+Komunikacja między uczestnikami.<br/>
+*Dostęp możliwy, kiedy dostaniesz zaproszenie.*
+<br/>
+
+<svg width="200" height="200" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid"><path d="M165.964 15.838c-3.89-11.975-16.752-18.528-28.725-14.636-11.975 3.89-18.528 16.752-14.636 28.725l58.947 181.365c4.048 11.187 16.132 17.473 27.732 14.135 12.1-3.483 19.475-16.334 15.614-28.217L165.964 15.838" fill="#DFA22F"/><path d="M74.626 45.516C70.734 33.542 57.873 26.989 45.9 30.879 33.924 34.77 27.37 47.631 31.263 59.606l58.948 181.366c4.047 11.186 16.132 17.473 27.732 14.132 12.099-3.481 19.474-16.332 15.613-28.217L74.626 45.516" fill="#3CB187"/><path d="M240.162 166.045c11.975-3.89 18.526-16.75 14.636-28.726-3.89-11.973-16.752-18.527-28.725-14.636L44.708 181.632c-11.187 4.046-17.473 16.13-14.135 27.73 3.483 12.099 16.334 19.475 28.217 15.614l181.372-58.93" fill="#CE1E5B"/><path d="M82.508 217.27l43.347-14.084-14.086-43.352-43.35 14.09 14.089 43.347" fill="#392538"/><path d="M173.847 187.591c16.388-5.323 31.62-10.273 43.348-14.084l-14.088-43.36-43.35 14.09 14.09 43.354" fill="#BB242A"/><path d="M210.484 74.706c11.974-3.89 18.527-16.751 14.637-28.727-3.89-11.973-16.752-18.526-28.727-14.636L15.028 90.293C3.842 94.337-2.445 106.422.896 118.022c3.481 12.098 16.332 19.474 28.217 15.613l181.371-58.93" fill="#72C5CD"/><path d="M52.822 125.933c11.805-3.836 27.025-8.782 43.354-14.086-5.323-16.39-10.273-31.622-14.084-43.352l-43.36 14.092 14.09 43.346" fill="#248C73"/><path d="M144.16 96.256l43.356-14.088a546179.21 546179.21 0 0 0-14.089-43.36L130.07 52.9l14.09 43.356" fill="#62803A"/></svg>
 
 ---
 
@@ -32,8 +46,8 @@ class: middle, center, slide-card-list
 
 ### &#x1F4DA; Trenerzy &#x1F4DA;
 
-.card[![](./images/trainers/piotr-kowalski.jpg) Piotr Kowalski]
-.card[![](./images/trainers/piotr-zientara.jpg) Piotr Zientara]
+.card[![](./images/trainers/robert-kawecki.jpg) Robert Kawecki]
+.card[![](./images/trainers/jakub-nowak-zaiste.jpg) Jakub Nowak - Zaiste]
 
 ---
 
@@ -79,14 +93,14 @@ class: middle, center
 
 ### Nazwa projektu
 
-## `warsawjs-workshop-7-***`
+## `warsawjs-workshop-8-social-network`
 
 ---
 
 ### Zakończenie
 
 * Kodowanie kończymy o **18:00**
-* Ankieta: [bit.ly/warsawjs-workshop-7-ankieta][ankieta]
+* Ankieta: [bit.ly/warsawjs-workshop-8-ankieta][ankieta]
 * Chętni wychodzą na scenę ze swoim projektem
 * &#x2728;&#0160; Bonus na zakończenie!
 
@@ -95,16 +109,6 @@ class: middle, center
 class: middle, center
 
 # Poznajmy się &#x1F600;
-
----
-
-class: middle
-
-# Pokaż jak się koduje! &#x1F600;
-
-## 1. Zrób zdjęcie podczas warsztatów
-## 2. Opublikuj w mediach z tagiem `#warsawjs`
-## 3. Weź udział w losowaniu upominku! &#x1F455;
 
 ---
 
@@ -119,6 +123,16 @@ class: middle, center, slide-card-list
 
 ---
 
+class: middle
+
+# Pokaż jak się koduje! &#x1F600;
+
+## 1. Zrób zdjęcie podczas warsztatów
+## 2. Opublikuj w mediach z tagiem `#warsawjs`
+## 3. Weź udział w losowaniu upominku! &#x1F455;
+
+---
+
 class: middle, center
 
 # Koniec części organizacyjnej
@@ -127,9 +141,9 @@ class: middle, center
 
 class: slide-1
 
-### WarsawJS Workshop #7
+### WarsawJS Workshop #8
 
-* Nazwa projektu: `warsawjs-workshop-7-***`
+* Nazwa projektu: `warsawjs-workshop-8-social-network`
 * Przerwy:
     - kawowa: **11:30 - 11:45** 
     - obiadowa: **13:00 - 13:30**
@@ -137,8 +151,8 @@ class: slide-1
 * Zakończenie kodowania **18:00** &#x26D4;
 * Zrób zdjęcie, opublikuj je z hashtagiem `#warsawjs` i wygraj konkurs! &#x1F455;
 * Ankiety
-    - lunch: [bit.ly/warsawjs-workshop-7-lunch][lunch]
-    - podsumowanie: [bit.ly/warsawjs-workshop-7-ankieta][ankieta]
+    - lunch: [bit.ly/warsawjs-workshop-8-lunch][lunch]
+    - podsumowanie: [bit.ly/warsawjs-workshop-8-ankieta][ankieta]
 
 ---
 
@@ -155,7 +169,7 @@ class: middle, center
 # Koniec &#x23F0; o 18:00
 
 ## &#x2728; Dyplomy &#x2728;
-## Ankieta: [bit.ly/warsawjs-workshop-7-ankieta][ankieta]
+## Ankieta: [bit.ly/warsawjs-workshop-8-ankieta][ankieta]
 
 ---
 
@@ -184,12 +198,12 @@ class: middle, center
 
 # Dzięki za przybycie! &#x1F389;
 <br/>
-## Kolejne warsztaty: `Nasze frameworki`
+## Kolejne warsztaty: `RxJS - Reaktywne programowanie w JS`
 ## <mark>Szukamy trenerów!</mark>
 
 
-[ankieta]: http://bit.ly/warsawjs-workshop-7-ankieta
-[lunch]: http://bit.ly/warsawjs-workshop-7-lunch
+[ankieta]: http://bit.ly/warsawjs-workshop-8-ankieta
+[lunch]: http://bit.ly/warsawjs-workshop-8-lunch
 [twitter-hashtag]: https://twitter.com/hashtag/warsawjs?f=tweets&vertical=default
 [instagram-hashtag]: https://www.instagram.com/explore/tags/warsawjs/
 [facebook-hashtag]: https://www.facebook.com/hashtag/warsawjs
