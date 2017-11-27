@@ -1,6 +1,6 @@
 class: middle, center, slide-1
 
-# WarsawJS Workshop #10
+# WarsawJS Workshop #11
 
 ---
 
@@ -14,7 +14,7 @@ class: middle, center
 
 # Obiad
 
-## [bit.ly/warsawjs-workshop-10-lunch][lunch]
+## [bit.ly/warsawjs-workshop-11-lunch][lunch]
 
 ---
 
@@ -22,7 +22,7 @@ class: middle, center
 
 # Slack
 
-## #workshop-10
+## #workshop-11
 
 Komunikacja między uczestnikami.<br/>
 *Dostęp możliwy, kiedy dostaniesz zaproszenie.*
@@ -36,9 +36,9 @@ class: middle, center, slide-card-list
 
 ### Organizatorzy
 
-.card[![](./images/hosts/piotr-kowalski.jpg) Piotr Kowalski]
-.card[![](./images/hosts/katarzyna-grabowska.jpg) Katarzyna Grabowska]
-.card[![](./images/hosts/piotr-zientara.jpg) Piotr Zientara]
+.card[![](./images/avatars-hosts/piotr-kowalski.jpg) Piotr Kowalski]
+.card[![](./images/avatars-hosts/katarzyna-grabowska.jpg) Katarzyna Grabowska]
+.card[![](./images/avatars-hosts/piotr-zientara.jpg) Piotr Zientara]
 
 ---
 
@@ -46,27 +46,31 @@ class: middle, center, slide-card-list
 
 ### &#x1F4DA; Trenerzy &#x1F4DA;
 
-.card[![](./images/trainers/anna-olchowik.jpg) Anna Olchowik]
-.card[![](./images/trainers/daniel-siwek.jpg) Daniel Siwek]
-.card[![](./images/trainers/michal-bury.png) Michał Bury]
-.card[![](./images/trainers/piotr-zientara.jpg) Piotr Zientara]
+.card[![](./images/avatars-trainers/marek-swiecicki.jpg) Marek Święcicki]
+.card[![](./images/avatars-trainers/anna-olchowik.jpg) Anna Olchowik]
+.card[![](./images/avatars-trainers/marcin-bychawski.jpg) Marcin Bychawski]
+
+.card[![](./images/avatars-trainers/jakub-skalecki.jpg) Jakub Skałecki]
+.card[![](./images/avatars-trainers/michal-bury.png) Michał Bury]
 
 ---
 
 class: middle, center
 
-![](./images/sponsors/artificial-logo-394x110.png)
-![](./images/sponsors/evojam-logo-500x271.png)
-![](./images/sponsors/software-plant-logo-500x210.png)
+![](./images/sponsors/artificial-logo-400x200.jpg)
+![](./images/sponsors/chimera-prime-logo-horizontal-mode-400x200.png)
+![](./images/sponsors/evojam-logo-400x200.jpg)
+![](./images/sponsors/software-plant-logo-400x200.jpg)
 
 ---
 
 ### Zasady współpracy
 
 * Podział na grupy pod kątem zaawansowania (efekt selekcji)
+    - jeśli trafiłeś do grupy z nieodpowiednim dla Ciebie poziomem, daj znać!
 * Trener decyduje o prędkości realizacji projektu
-* Nie są to indywidualne zajęcia
-* Odnosimy się do siebie po koleżeńsku (na Ty)
+* Nie są to indywidualne zajęcia (pomagamy sobie nawzajem)
+* Odnosimy się do siebie po koleżeńsku (na "Ty")
 * Każdy z uczestników wyraża zgodę na publikację wizerunku w social mediach
 
 A najważniejsza zasada to...
@@ -94,14 +98,14 @@ class: middle, center
 
 ### Nazwa projektu
 
-## `warsawjs-workshop-10-budget`
+## `warsawjs-workshop-11-smart-cookbook`
 
 ---
 
 ### Zakończenie
 
 * Kodowanie kończymy o **18:00**
-* Ankieta: [bit.ly/warsawjs-workshop-10-ankieta][ankieta]
+* Ankieta: [bit.ly/warsawjs-workshop-11-ankieta][ankieta]
 * Chętni wychodzą na scenę ze swoim projektem
 * &#x2728;&#0160; Bonus na zakończenie!
 
@@ -143,9 +147,9 @@ class: middle, center
 
 class: slide-1
 
-### WarsawJS Workshop #10
+### WarsawJS Workshop #11
 
-* Nazwa projektu: `warsawjs-workshop-10-budget`
+* Nazwa projektu: `warsawjs-workshop-11-smart-cookbook`
 * Przerwy:
     - kawowa: **11:30 - 11:45** 
     - obiadowa: **13:00 - 13:30**
@@ -153,8 +157,8 @@ class: slide-1
 * Zakończenie kodowania **18:00** &#x26D4;
 * Zrób zdjęcie, opublikuj je z hashtagiem `#warsawjs` i wygraj konkurs! &#x1F455;
 * Ankiety
-    - lunch: [bit.ly/warsawjs-workshop-10-lunch][lunch]
-    - podsumowanie: [bit.ly/warsawjs-workshop-10-ankieta][ankieta]
+    - lunch: [bit.ly/warsawjs-workshop-11-lunch][lunch]
+    - podsumowanie: [bit.ly/warsawjs-workshop-11-ankieta][ankieta]
 
 ---
 
@@ -171,7 +175,7 @@ class: middle, center
 # Koniec &#x23F0; o 18:00
 
 ## &#x2728; Dyplomy &#x2728;
-## Ankieta: [bit.ly/warsawjs-workshop-10-ankieta][ankieta]
+## Ankieta: [bit.ly/warsawjs-workshop-11-ankieta][ankieta]
 
 ---
 
@@ -217,8 +221,8 @@ class: center, middle
 ]
 
 
-[ankieta]: http://bit.ly/warsawjs-workshop-10-ankieta
-[lunch]: http://bit.ly/warsawjs-workshop-10-lunch
+[ankieta]: http://bit.ly/warsawjs-workshop-11-ankieta
+[lunch]: http://bit.ly/warsawjs-workshop-11-lunch
 [twitter-hashtag]: https://twitter.com/hashtag/warsawjs?f=tweets&vertical=default
 [instagram-hashtag]: https://www.instagram.com/explore/tags/warsawjs/
 [facebook-hashtag]: https://www.facebook.com/hashtag/warsawjs

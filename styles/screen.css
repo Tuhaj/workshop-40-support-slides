@@ -57,9 +57,9 @@ code {
 }
 
 mark {
+    background: #f0db4f;
     display: inline-block;
     padding: 0 15px;
-    background: #f0db4f;
 }
 
 /* -------------------------------------------------------------------------- */
