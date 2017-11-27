@@ -1,6 +1,6 @@
 class: middle, center, slide-1
 
-# WarsawJS Workshop #8
+# WarsawJS Workshop #9
 
 ---
 
@@ -14,7 +14,7 @@ class: middle, center
 
 # Obiad
 
-## [bit.ly/warsawjs-workshop-8-lunch][lunch]
+## [bit.ly/warsawjs-workshop-9-lunch][lunch]
 
 ---
 
@@ -22,7 +22,7 @@ class: middle, center
 
 # Slack
 
-## #workshop-8
+## #workshop-9
 
 Komunikacja między uczestnikami.<br/>
 *Dostęp możliwy, kiedy dostaniesz zaproszenie.*
@@ -44,10 +44,9 @@ class: middle, center, slide-card-list
 
 class: middle, center, slide-card-list
 
-### &#x1F4DA; Trenerzy &#x1F4DA;
+### &#x1F4DA; Trener &amp; Mentor &#x1F4DA;
 
-.card[![](./images/trainers/robert-kawecki.jpg) Robert Kawecki]
-.card[![](./images/trainers/jakub-nowak-zaiste.jpg) Jakub Nowak - Zaiste]
+.card[![](./images/hosts/piotr-kowalski.jpg) Piotr Kowalski]
 
 ---
 
@@ -89,18 +88,19 @@ Dodatkowe przerwy, o których decyduje trener.
 
 ---
 
+exclude: true
 class: middle, center
 
 ### Nazwa projektu
 
-## `warsawjs-workshop-8-social-network`
+## `warsawjs-workshop-9-todo`
 
 ---
 
 ### Zakończenie
 
 * Kodowanie kończymy o **18:00**
-* Ankieta: [bit.ly/warsawjs-workshop-8-ankieta][ankieta]
+* Ankieta: [bit.ly/warsawjs-workshop-9-ankieta][ankieta]
 * Chętni wychodzą na scenę ze swoim projektem
 * &#x2728;&#0160; Bonus na zakończenie!
 
@@ -112,6 +112,7 @@ class: middle, center
 
 ---
 
+exclude: true
 class: middle, center, slide-card-list
 
 ### **WarsawJS** w mediach społecznościowych
@@ -141,9 +142,9 @@ class: middle, center
 
 class: slide-1
 
-### WarsawJS Workshop #8
+### WarsawJS Workshop #9
 
-* Nazwa projektu: `warsawjs-workshop-8-social-network`
+* Profil trenera: `github.com/piecioshka`
 * Przerwy:
     - kawowa: **11:30 - 11:45** 
     - obiadowa: **13:00 - 13:30**
@@ -151,8 +152,8 @@ class: slide-1
 * Zakończenie kodowania **18:00** &#x26D4;
 * Zrób zdjęcie, opublikuj je z hashtagiem `#warsawjs` i wygraj konkurs! &#x1F455;
 * Ankiety
-    - lunch: [bit.ly/warsawjs-workshop-8-lunch][lunch]
-    - podsumowanie: [bit.ly/warsawjs-workshop-8-ankieta][ankieta]
+    - lunch: [bit.ly/warsawjs-workshop-9-lunch][lunch]
+    - podsumowanie: [bit.ly/warsawjs-workshop-9-ankieta][ankieta]
 
 ---
 
@@ -169,7 +170,7 @@ class: middle, center
 # Koniec &#x23F0; o 18:00
 
 ## &#x2728; Dyplomy &#x2728;
-## Ankieta: [bit.ly/warsawjs-workshop-8-ankieta][ankieta]
+## Ankieta: [bit.ly/warsawjs-workshop-9-ankieta][ankieta]
 
 ---
 
@@ -197,13 +198,28 @@ class: middle, center
 class: middle, center
 
 # Dzięki za przybycie! &#x1F389;
-<br/>
-## Kolejne warsztaty: `RxJS - Reaktywne programowanie w JS`
-## <mark>Szukamy trenerów!</mark>
+
+<hr/>
+
+--
+.size50[
+📢 Specjalne ogłoszenie 📢 
+]
+
+--
+## <mark>3 urodziny</mark> - <mark>13 września!</mark>
+
+---
+
+class: center, middle
+
+# Prośba
+
+🙏 Wyrzućcie swoje śmieci do kosza 🙏
 
 
-[ankieta]: http://bit.ly/warsawjs-workshop-8-ankieta
-[lunch]: http://bit.ly/warsawjs-workshop-8-lunch
+[ankieta]: http://bit.ly/warsawjs-workshop-9-ankieta
+[lunch]: http://bit.ly/warsawjs-workshop-9-lunch
 [twitter-hashtag]: https://twitter.com/hashtag/warsawjs?f=tweets&vertical=default
 [instagram-hashtag]: https://www.instagram.com/explore/tags/warsawjs/
 [facebook-hashtag]: https://www.facebook.com/hashtag/warsawjs

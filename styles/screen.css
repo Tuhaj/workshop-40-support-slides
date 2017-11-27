@@ -1,4 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,900');
+@charset "utf-8";
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Fira Sans', sans-serif;
@@ -16,6 +20,15 @@ h2 {
 h3 {
     border-bottom: 1px solid;
     font-size: 45px !important;
+}
+
+h1 small,
+h2 small,
+h3 small,
+h4 small,
+h5 small,
+h6 small {
+    color: gray;
 }
 
 a {
@@ -57,34 +70,8 @@ mark {
     font-size: 26px;
 }
 
-.remark-slide-content.slide-1 {
-    background-color: black;
-    background-image: url('../images/logo/logo-black-240x240.jpg');
-    background-position: right top;
-    background-repeat: no-repeat;
-    background-size: initial;
-    color: white;
-}
-
-.remark-slide-content.slide-1 h3 {
-    width: 850px;
-}
-
-.remark-slide-content.slide-1 a {
-    color: #f0da50;
-}
-
 /* -------------------------------------------------------------------------- */
 
-.slide-card-list p {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-
-.slide-card-list img {
-    width: 200px;
-    margin: 10px 25px;
-    display: block;
+.remark-slide-content.slide-fullscreen-background {
+    background-size: contain;
 }

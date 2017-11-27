@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+.tag-cloud li {
+    display: inline-block;
+}
+
+.tag-cloud li:nth-of-type(2n) {
+    font-size: large;
+}
+
+.tag-cloud li:nth-of-type(4n) {
+    font-size: medium;
+}
+
+.tag-cloud li:nth-of-type(6n) {
+    font-size: small;
+}
+
+.tag-cloud li:nth-of-type(8n) {
+    font-size: smaller;
+}
+
+.tag-cloud li:nth-of-type(3n) {
+    color: #9b59b6;
+}
+
+.tag-cloud li:nth-of-type(5n) {
+    color: #e74c3c
+}
+
+.tag-cloud li:nth-of-type(7n) {
+    color: #27ae60;
+}
+
+.tag-cloud li:nth-of-type(9n) {
+    color: #3498db;
+}
+
+.tag-cloud li:nth-of-type(11n) {
+    color: #e67e22;
+}
