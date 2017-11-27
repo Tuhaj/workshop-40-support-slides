@@ -1,12 +1,20 @@
 class: middle, center, slide-1
 
-# WarsawJS Workshop #5
+# WarsawJS Workshop #6
 
 ---
 
 class: middle, center
 
 # I część: organizacyjna
+
+---
+
+class: middle, center
+
+# Obiad
+
+## [bit.ly/warsawjs-workshop-6-lunch][lunch]
 
 ---
 
@@ -22,13 +30,12 @@ class: middle, center, slide-card-list
 
 class: middle, center, slide-card-list
 
-### Trenerzy
+### &#x1F4DA; Trenerzy &#x1F4DA;
 
-.card[![](./images/trainers/marek-swiecicki.jpg) Marek Święcicki]
-.card[![](./images/trainers/kamil-grabek.jpg) Kamil Grabek]
-.card[![](./images/trainers/konrad-kowalski.jpg) Konrad Kowalski]
-.card[![](./images/trainers/robert-kawecki.jpg) Robert Kawecki]
-.card[![](./images/trainers/tomasz-marciszewski.jpg) Tomasz Marciszewski]
+.card[![](./images/trainers/igor-pasieczny.jpg) Igor Pasieczny]
+.card[![](./images/trainers/lukasz-jagodzinski.jpg) Łukasz Jagodziński]
+.card[![](./images/trainers/marcin-hagmajer.jpg) Marcin Hagmajer]
+.card[![](./images/trainers/szymon-paluch.jpg) Szymon Paluch]
 
 ---
 
@@ -45,10 +52,9 @@ class: middle, center
 ### Zasady współpracy
 
 * Podział na grupy pod kątem zaawansowania podczas selekcji
+* Trener decyduje o prędkości realizacji projektu
 * To nie są indywidualne zajęcia
 * Odnosimy się do siebie po koleżeńsku (na Ty)
-* Trener decyduje o prędkości realizacji projektu
-* Uczestnicy przedstawiają się trenerowi
 * Każdy z uczestników wyraża zgodę na publikację wizerunku w social mediach
 
 A najważniejsza zasada to...
@@ -57,24 +63,32 @@ A najważniejsza zasada to...
 
 class: middle, center
 
-# Nie ma głupich pytań
+# Żadne pytanie nie jest głupie!
 
 ---
 
 ### Przerwy
 
-* Przerwa kawowa: 11:30 - 11:45 
-* Przerwa obiadowa: 13:00 - 13:30
-* Przerwa kawowa: 15:30 - 15:45 
+* Przerwa kawowa: **11:30 - 11:45** 
+* Przerwa obiadowa: **13:00 - 13:30**
+* Przerwa kawowa: **15:30 - 15:45**
 
 Dodatkowe przerwy, o których decyduje trener.
 
 ---
 
+class: middle, center
+
+### Nazwa projektu
+
+## `warsawjs-workshop-6-whiteboard`
+
+---
+
 ### Zakończenie
 
-* Kodowanie kończymy o 18:00
-* Ankiety: [bit.ly/warsawjs-workshop-5-ankieta](http://bit.ly/warsawjs-workshop-5-ankieta)
+* Kodowanie kończymy o **18:00**
+* Ankiety: [bit.ly/warsawjs-workshop-6-ankieta][ankieta]
 * Chętni wychodzą na scenę ze swoim projektem
 * &#x2728;&#0160; Bonus na zakończenie!
 
@@ -86,22 +100,24 @@ class: middle, center
 
 ---
 
+class: middle
+
+# Pokaż jak się koduje! &#x1F600;
+
+## 1. Zrób zdjęcie podczas warsztatów
+## 2. Opublikuj na Twitterze z tagiem `#warsawjs`
+## 3. Weź udział w losowaniu upominku! &#x1F455;
+
+---
+
 class: middle, center, slide-card-list
 
 ### **WarsawJS** w mediach społecznościowych
 
-.card[![](./images/social/twitter.png) [twitter.com](http://twitter.com/warsawjs)]
-.card[![](./images/logo/logo-black-240x240.jpg) [warsawjs.com](http://warsawjs.com/)]
-.card[![](./images/social/facebook.png) [facebook.com](http://facebook.com/warsawjs)]
 .card[![](./images/social/meetup.png) [meetup.com](http://meetup.com/warsawjs)]
+.card[![](./images/social/twitter.png) [twitter.com](http://twitter.com/warsawjs)]
+.card[![](./images/social/facebook.png) [facebook.com](http://facebook.com/warsawjs)]
 .card[![](./images/social/youtube.png) [youtube.com](http://youtube.com/warsawjs)]
-
----
-
-class: middle, center
-
-# Pokaż jak się koduje! &#x1F600;
-## Zrób zdjęcie podczas warsztatów z tagiem `#warsawjs` a weźmiesz udział w losowaniu upominku!
 
 ---
 
@@ -111,60 +127,68 @@ class: middle, center
 
 ---
 
+class: slide-1
+
+### WarsawJS Workshop #6
+
+* Nazwa projektu: `warsawjs-workshop-6-whiteboard`
+* Przerwy:
+    - kawowa: **11:30 - 11:45** 
+    - obiadowa: **13:00 - 13:30**
+    - kawowa: **15:30 - 15:45**
+* Zakończenie kodowania **18:00** &#x26D4;
+* Zrób zdjęcie, opublikuj je na Twitterze z `#warsawjs` i wygraj konkurs! &#x1F455;
+* Ankiety
+    - lunch: [bit.ly/warsawjs-workshop-6-lunch][lunch]
+    - podsumowanie: [bit.ly/warsawjs-workshop-6-ankieta][ankieta]
+
+---
+
+class: middle, center
+
+# Odliczanie czasu do końca warsztatów
+
+https://piecioshka.github.io/countdown/
+
+---
+
 class: middle, center
 
 # Koniec &#x23F0; o 18:00
 
 ## &#x2728; Dyplomy &#x2728;
-## Ankieta: [bit.ly/warsawjs-workshop-5-ankieta](http://bit.ly/warsawjs-workshop-5-ankieta)
+## Ankieta: [bit.ly/warsawjs-workshop-6-ankieta][ankieta]
+
+---
+
+class: middle
+
+# Kto chce pochwalić się swoim projektem? &#x1F4A5;
+
+1. Opis podstawowych funkcjonalności (przeklikanie)
+2. Pokazanie unikalnego feature-a
+3. Najfajniejsze miejsce w kodzie
+4. Jaki jest największy problem?
 
 ---
 
 class: middle, center
 
-# Kto chce pochwalić się swoim projektem?
+# Losowanie nagród &#x1F381;
 
----
-
-### Relacja live &#x1F3AC;
-
-- Rozpoczęcie WarsawJS Workshop #5
-    - https://youtu.be/NY2mvJ578tY
-- Prezentacja aplikacji docelowej przez mentora podczas WarsawJS Workshop #5
-    - https://youtu.be/PfvgR3I9rkA
-- Rozmowa z trenerami WarsawJS Workshop #5
-    - https://youtu.be/h2Yyr6Xy5aI
-- Rozmowa z mentorem WarsawJS Workshop #5
-    - https://youtu.be/j0xHF-td9DA
-- Rozmowa z uczestnikami WarsawJS Workshop #5
-    - https://youtu.be/9b21X7d_vkw
-- Rozmowa ze współorganizatorem podczas WarsawJS Workshop #5
-    - https://youtu.be/IGbjms2ZAcE
+## [Twitter][twitter-hashtag]: `#warsawjs`
 
 ---
 
 class: middle, center
 
-# Losowanie nagród
+# Dzięki za przybycie! &#x1F389;
+<br/>
+## Kolejne warsztaty: `Web Components`
+## <mark>Szukamy trenerów!</mark>
 
-## Twitter: `#warsawjs`
 
----
+[ankieta]: http://bit.ly/warsawjs-workshop-6-ankieta
+[lunch]: http://bit.ly/warsawjs-workshop-6-lunch
+[twitter-hashtag]: https://twitter.com/search?f=tweets&vertical=default&q=%23warsawjs
 
-class: middle, center
-
-# Konferencja `JS Poland`
-
-![](https://piecioshka.pl/blog/assets/images/partners/js-poland/js-poland-300x300.png)
-
-## Darmowe `3 bilety` oraz zniżka `#warsawjs`
-
----
-
-class: middle, center
-
-# Kolejne warsztaty:
-
-# `Meteor.js`
-
-## Szukamy trenerów!
