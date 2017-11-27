@@ -1,6 +1,6 @@
 class: middle, center, slide-1
 
-# WarsawJS Workshop #6
+# WarsawJS Workshop #7
 
 ---
 
@@ -14,7 +14,7 @@ class: middle, center
 
 # Obiad
 
-## [bit.ly/warsawjs-workshop-6-lunch][lunch]
+## [bit.ly/warsawjs-workshop-7-lunch][lunch]
 
 ---
 
@@ -32,10 +32,8 @@ class: middle, center, slide-card-list
 
 ### &#x1F4DA; Trenerzy &#x1F4DA;
 
-.card[![](./images/trainers/igor-pasieczny.jpg) Igor Pasieczny]
-.card[![](./images/trainers/lukasz-jagodzinski.jpg) Łukasz Jagodziński]
-.card[![](./images/trainers/marcin-hagmajer.jpg) Marcin Hagmajer]
-.card[![](./images/trainers/szymon-paluch.jpg) Szymon Paluch]
+.card[![](./images/trainers/piotr-kowalski.jpg) Piotr Kowalski]
+.card[![](./images/trainers/piotr-zientara.jpg) Piotr Zientara]
 
 ---
 
@@ -51,9 +49,9 @@ class: middle, center
 
 ### Zasady współpracy
 
-* Podział na grupy pod kątem zaawansowania podczas selekcji
+* Podział na grupy pod kątem zaawansowania (efekt selekcji)
 * Trener decyduje o prędkości realizacji projektu
-* To nie są indywidualne zajęcia
+* Nie są to indywidualne zajęcia
 * Odnosimy się do siebie po koleżeńsku (na Ty)
 * Każdy z uczestników wyraża zgodę na publikację wizerunku w social mediach
 
@@ -81,14 +79,14 @@ class: middle, center
 
 ### Nazwa projektu
 
-## `warsawjs-workshop-6-whiteboard`
+## `warsawjs-workshop-7-***`
 
 ---
 
 ### Zakończenie
 
 * Kodowanie kończymy o **18:00**
-* Ankiety: [bit.ly/warsawjs-workshop-6-ankieta][ankieta]
+* Ankieta: [bit.ly/warsawjs-workshop-7-ankieta][ankieta]
 * Chętni wychodzą na scenę ze swoim projektem
 * &#x2728;&#0160; Bonus na zakończenie!
 
@@ -105,7 +103,7 @@ class: middle
 # Pokaż jak się koduje! &#x1F600;
 
 ## 1. Zrób zdjęcie podczas warsztatów
-## 2. Opublikuj na Twitterze z tagiem `#warsawjs`
+## 2. Opublikuj w mediach z tagiem `#warsawjs`
 ## 3. Weź udział w losowaniu upominku! &#x1F455;
 
 ---
@@ -129,18 +127,18 @@ class: middle, center
 
 class: slide-1
 
-### WarsawJS Workshop #6
+### WarsawJS Workshop #7
 
-* Nazwa projektu: `warsawjs-workshop-6-whiteboard`
+* Nazwa projektu: `warsawjs-workshop-7-***`
 * Przerwy:
     - kawowa: **11:30 - 11:45** 
     - obiadowa: **13:00 - 13:30**
     - kawowa: **15:30 - 15:45**
 * Zakończenie kodowania **18:00** &#x26D4;
-* Zrób zdjęcie, opublikuj je na Twitterze z `#warsawjs` i wygraj konkurs! &#x1F455;
+* Zrób zdjęcie, opublikuj je z hashtagiem `#warsawjs` i wygraj konkurs! &#x1F455;
 * Ankiety
-    - lunch: [bit.ly/warsawjs-workshop-6-lunch][lunch]
-    - podsumowanie: [bit.ly/warsawjs-workshop-6-ankieta][ankieta]
+    - lunch: [bit.ly/warsawjs-workshop-7-lunch][lunch]
+    - podsumowanie: [bit.ly/warsawjs-workshop-7-ankieta][ankieta]
 
 ---
 
@@ -148,7 +146,7 @@ class: middle, center
 
 # Odliczanie czasu do końca warsztatów
 
-https://piecioshka.github.io/countdown/
+https://piecioshka.github.io/countdown/#10:00
 
 ---
 
@@ -157,7 +155,7 @@ class: middle, center
 # Koniec &#x23F0; o 18:00
 
 ## &#x2728; Dyplomy &#x2728;
-## Ankieta: [bit.ly/warsawjs-workshop-6-ankieta][ankieta]
+## Ankieta: [bit.ly/warsawjs-workshop-7-ankieta][ankieta]
 
 ---
 
@@ -177,6 +175,8 @@ class: middle, center
 # Losowanie nagród &#x1F381;
 
 ## [Twitter][twitter-hashtag]: `#warsawjs`
+## [Instagram][instagram-hashtag]: `#warsawjs`
+## [Facebook][facebook-hashtag]: `#warsawjs`
 
 ---
 
@@ -184,11 +184,12 @@ class: middle, center
 
 # Dzięki za przybycie! &#x1F389;
 <br/>
-## Kolejne warsztaty: `Web Components`
+## Kolejne warsztaty: `Nasze frameworki`
 ## <mark>Szukamy trenerów!</mark>
 
 
-[ankieta]: http://bit.ly/warsawjs-workshop-6-ankieta
-[lunch]: http://bit.ly/warsawjs-workshop-6-lunch
-[twitter-hashtag]: https://twitter.com/search?f=tweets&vertical=default&q=%23warsawjs
-
+[ankieta]: http://bit.ly/warsawjs-workshop-7-ankieta
+[lunch]: http://bit.ly/warsawjs-workshop-7-lunch
+[twitter-hashtag]: https://twitter.com/hashtag/warsawjs?f=tweets&vertical=default
+[instagram-hashtag]: https://www.instagram.com/explore/tags/warsawjs/
+[facebook-hashtag]: https://www.facebook.com/hashtag/warsawjs
