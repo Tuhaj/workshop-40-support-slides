@@ -48,11 +48,12 @@ class: middle, center, slide-card-list
 
 ### Wolontariusze
 
-.card[![](./images/avatars-hosts/tomasz-budrewicz.jpeg) Tomasz Budrewicz]
-.card[![](./images/avatars-hosts/tatiana-platonova.jpg) Tatiana Platonova]
-.card[![](./images/avatars-hosts/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
-.card[![](./images/avatars-hosts/natalia-kedziora.jpeg) Natalia Kędziora]
-.card[![](./images/avatars-hosts/miroslaw-stasiak.jpg) Mirosław Stasiak]
+.card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova]
+.card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
+.card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
+
+.card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz]
+.card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak]
 
 ---
 
