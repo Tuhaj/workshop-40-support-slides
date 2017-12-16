@@ -1,7 +1,7 @@
 class: middle, center, slide-1
 
 .size130[
-# WarsawJS Workshop #13
+# WarsawJS Workshop #14
 ]
 
 ---
@@ -17,7 +17,7 @@ class: middle, center
 
 # Obiad
 
-## [bit.ly/warsawjs-workshop-13-lunch][lunch]
+## [bit.ly/warsawjs-workshop-14-lunch][lunch]
 
 ---
 
@@ -25,7 +25,7 @@ class: middle, center
 
 # Slack
 
-## #workshop-13
+## #workshop-14
 
 *Dostęp możliwy, kiedy dostaniesz zaproszenie.*
 <br/>
@@ -49,9 +49,6 @@ class: middle, center, slide-card-list
 ### Wolontariusze
 
 .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova]
-.card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
-.card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
-
 .card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz]
 .card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak]
 
@@ -61,10 +58,9 @@ class: middle, center, slide-card-list
 
 ### &#x1F4DA; Trenerzy &#x1F4DA;
 
-.card[![](./images/avatars-trainers/jakub-skalecki.jpg) Jakub Skałecki]
-.card[![](./images/avatars-trainers/michal-mietlinski.jpg) Michał Mietliński]
-.card[![](./images/avatars-trainers/jan-horubala.jpg) Jan Horubała]
-.card[![](./images/avatars-trainers/daniel-siwek.jpg) Daniel Siwek]
+.card[![](./images/avatars-trainers/musa-sanli.jpg) Musa Sanli]
+.card[![](./images/avatars-trainers/muhammed-tanrikulu.jpg) Muhammed Tanrıkulu]
+.card[![](./images/avatars-trainers/bartosz-lewinski.jpg) Bartosz Lewiński]
 
 ---
 
@@ -114,7 +110,7 @@ class: middle, center
 # 💎 Nazwa projektu 💎
 
 .size60[
-## <mark>warsawjs-workshop-13-quiz</mark>
+## <mark>warsawjs-workshop-14-microblog</mark>
 ]
 
 ---
@@ -123,7 +119,7 @@ class: middle, center
 
 .size40[
 * Kodowanie kończymy o **18:00**
-* Ankieta: [bit.ly/warsawjs-workshop-13-ankieta][ankieta]
+* Ankieta: [bit.ly/warsawjs-workshop-14-ankieta][ankieta]
 * **Chętni wychodzą na scenę ze swoim projektem**
 * 📦 Bonus na zakończenie!
 ]
@@ -169,15 +165,15 @@ class: middle, center
 class: slide-1
 
 .size70[
-# WarsawJS Workshop #13
+# WarsawJS Workshop #14
 ]
 
 .size40[
 * Zrób zdjęcie, opublikuj je z hashtagiem `#warsawjs` i wygraj konkurs! &#x1F455;
 * Zakończenie kodowania **18:00** &#x26D4;
-* Ankieta: [bit.ly/warsawjs-workshop-13-ankieta][ankieta]
+* Ankieta: [bit.ly/warsawjs-workshop-14-ankieta][ankieta]
 
-Nazwa projektu: `warsawjs-workshop-13-quiz`
+Nazwa projektu: `warsawjs-workshop-14-microblog`
 ]
 
 
@@ -196,7 +192,7 @@ class: middle, center
 # Koniec &#x23F0; o 18:00
 
 ## &#x2728; Dyplomy &#x2728;
-## Ankieta: [bit.ly/warsawjs-workshop-13-ankieta][ankieta]
+## Ankieta: [bit.ly/warsawjs-workshop-14-ankieta][ankieta]
 
 ---
 
@@ -242,8 +238,8 @@ class: center, middle
 ]
 
 
-[ankieta]: http://bit.ly/warsawjs-workshop-13-ankieta
-[lunch]: http://bit.ly/warsawjs-workshop-13-lunch
+[ankieta]: http://bit.ly/warsawjs-workshop-14-ankieta
+[lunch]: http://bit.ly/warsawjs-workshop-14-lunch
 [twitter-hashtag]: https://twitter.com/hashtag/warsawjs?f=tweets&vertical=default
 [instagram-hashtag]: https://www.instagram.com/explore/tags/warsawjs/
 [facebook-hashtag]: https://www.facebook.com/hashtag/warsawjs
