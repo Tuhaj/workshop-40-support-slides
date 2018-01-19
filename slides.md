@@ -1,7 +1,7 @@
 class: middle, center, slide-1
 
 .size130[
-# WarsawJS Workshop #15
+# WarsawJS Workshop #16
 ]
 
 ---
@@ -17,7 +17,7 @@ class: middle, center
 
 # Obiad
 
-## [bit.ly/warsawjs-workshop-15-lunch][lunch]
+## [bit.ly/warsawjs-workshop-16-lunch][lunch]
 
 ---
 
@@ -25,7 +25,7 @@ class: middle, center
 
 # Slack
 
-## #workshop-15
+## #workshop-16
 
 *Dostęp możliwy, kiedy dostaniesz zaproszenie.*
 <br/>
@@ -49,10 +49,8 @@ class: middle, center, slide-card-list
 ### Wolontariusze
 
 .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova]
-.card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
 .card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak]
-.card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
-.card[![](./images/avatars-volunteers/michal-szymczyk.jpg) Michał Szymczyk]
+.card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz]
 
 ---
 
@@ -61,8 +59,6 @@ class: middle, center, slide-card-list
 ### &#x1F4DA; Trenerzy &#x1F4DA;
 
 .card[![](./images/avatars-trainers/agnieszka-rudnicka.jpg) Agnieszka Rudnicka]
-.card[![](./images/avatars-trainers/grzegorz-kapkowski.jpg) Grzegorz Kapkowski]
-.card[![](./images/avatars-trainers/natalia-kedziora.jpeg) Natalia Kedziora]
 .card[![](./images/avatars-trainers/robert-kawecki.jpeg) Robert Kawecki]
 .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova]
 
@@ -114,7 +110,7 @@ class: middle, center
 # 💎 Nazwa projektu 💎
 
 .size60[
-## <mark>warsawjs-workshop-15-battleship</mark>
+## <mark>warsawjs-workshop-16-battleship</mark>
 ]
 
 ---
@@ -123,7 +119,7 @@ class: middle, center
 
 .size40[
 * Kodowanie kończymy o **18:00**
-* Ankieta: [bit.ly/warsawjs-workshop-15-ankieta][ankieta]
+* Ankieta: [bit.ly/warsawjs-workshop-16-ankieta][ankieta]
 * **Chętni wychodzą na scenę ze swoim projektem**
 * 📦 Bonus na zakończenie!
 ]
@@ -169,15 +165,15 @@ class: middle, center
 class: slide-1
 
 .size70[
-# WarsawJS Workshop #15
+# WarsawJS Workshop #16
 ]
 
 .size40[
 * Zrób zdjęcie, opublikuj je z hashtagiem `#warsawjs` i wygraj konkurs! &#x1F455;
 * Zakończenie kodowania **18:00** &#x26D4;
-* Ankieta: [bit.ly/warsawjs-workshop-15-ankieta][ankieta]
+* Ankieta: [bit.ly/warsawjs-workshop-16-ankieta][ankieta]
 
-Nazwa projektu: `warsawjs-workshop-15-battleship`
+Nazwa projektu: `warsawjs-workshop-16-battleship`
 ]
 
 
@@ -196,7 +192,7 @@ class: middle, center
 # Koniec &#x23F0; o 18:00
 
 ## &#x2728; Dyplomy &#x2728;
-## Ankieta: [bit.ly/warsawjs-workshop-15-ankieta][ankieta]
+## Ankieta: [bit.ly/warsawjs-workshop-16-ankieta][ankieta]
 
 ---
 
