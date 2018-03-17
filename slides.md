@@ -1,7 +1,7 @@
 class: middle, center, slide-1
 
 .size130[
-# WarsawJS Workshop #17
+# WarsawJS Workshop #18
 ]
 
 ---
@@ -17,7 +17,7 @@ class: middle, center
 
 # Obiad
 
-## [bit.ly/warsawjs-workshop-17-lunch][lunch]
+## [bit.ly/warsawjs-workshop-18-lunch][lunch]
 
 ---
 
@@ -25,7 +25,7 @@ class: middle, center
 
 # Slack
 
-## #workshop-17
+## #workshop-18
 
 *Dostęp możliwy, kiedy dostaniesz zaproszenie.*
 <br/>
@@ -50,7 +50,6 @@ class: middle, center, slide-card-list
 
 .card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz]
 .card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
-.card[![](./images/avatars-volunteers/michal-szymczyk.jpg) Michał Szymczyk]
 .card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
 .card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak]
 .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova]
@@ -61,16 +60,17 @@ class: middle, center, slide-card-list
 
 ### &#x1F4DA; Trenerzy &#x1F4DA;
 
-.card[![](./images/avatars-trainers/marek-swiecicki.jpg) Marek Święcicki]
-.card[![](./images/avatars-trainers/robert-kawecki.jpeg) Robert Kawecki]
-.card[![](./images/avatars-trainers/monika-glier.png) Monika Glier]
+.card[![](./images/avatars-trainers/piotr-kowalski.jpg) Piotr Kowalski]
+.card[![](./images/avatars-trainers/tatiana-platonova.jpg) Tatiana Platonova]
+.card[![](./images/avatars-trainers/piotr-zientara.jpg) Piotr Zientara]
+.card[![](./images/avatars-trainers/daniel-siwek.jpg) Daniel Siwek]
+.card[![](./images/avatars-trainers/leonid-logvinov.png) Leonid Logvinov]
 
 ---
 
 class: middle, center
 
 ![](./images/sponsors/artificial-logo-400x200.jpg)
-![](./images/sponsors/evojam-logo-400x200.jpg)
 ![](./images/sponsors/software-plant-logo-400x200.jpg)
 
 ---
@@ -92,7 +92,9 @@ A najważniejsza zasada to...
 
 class: middle, center
 
+.size70[
 # Żadne pytanie nie jest głupie!
+]
 
 ---
 
@@ -112,8 +114,8 @@ class: middle, center
 
 # 💎 Nazwa projektu 💎
 
-.size60[
-## <mark>warsawjs-workshop-17-git</mark>
+.size50[
+## <mark>warsawjs-workshop-18-topics-manager</mark>
 ]
 
 ---
@@ -122,9 +124,9 @@ class: middle, center
 
 .size40[
 * Kodowanie kończymy o **18:00**
-* Ankieta: [bit.ly/warsawjs-workshop-17-ankieta][ankieta]
+* Ankieta: [bit.ly/warsawjs-workshop-18-ankieta][ankieta]
 * **Chętni wychodzą na scenę ze swoim projektem**
-* 📦 Bonus na zakończenie!
+* &#x2728; Bonus na zakończenie! &#x2728; 
 ]
 
 ---
@@ -168,15 +170,15 @@ class: middle, center
 class: slide-1
 
 .size70[
-# WarsawJS Workshop #17
+# WarsawJS Workshop #18
 ]
 
 .size40[
 * Zrób zdjęcie, opublikuj je z hashtagiem `#warsawjs` i wygraj konkurs! &#x1F455;
 * Zakończenie kodowania **18:00** &#x26D4;
-* Ankieta: [bit.ly/warsawjs-workshop-17-ankieta][ankieta]
+* Ankieta: [bit.ly/warsawjs-workshop-18-ankieta][ankieta]
 
-Nazwa projektu: `warsawjs-workshop-17-git`
+Nazwa projektu: `warsawjs-workshop-18-topics-manager`
 ]
 
 
@@ -192,10 +194,10 @@ https://piecioshka.github.io/countdown/#10:00
 
 class: middle, center
 
-# Koniec &#x23F0; o 18:00
+# Koniec &#x23F0; o <mark>18:00</mark>
 
 ## &#x2728; Dyplomy &#x2728;
-## Ankieta: [bit.ly/warsawjs-workshop-17-ankieta][ankieta]
+## Ankieta: [bit.ly/warsawjs-workshop-18-ankieta][ankieta]
 
 ---
 
