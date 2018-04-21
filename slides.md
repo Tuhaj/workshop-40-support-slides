@@ -57,7 +57,7 @@ class: middle, center, slide-card-list
 
 ---
 
-class: middle, center, slide-card-list
+class: middle, center, slide-card-list, no-display-twitter-handler
 
 ### &#x1F4DA; Trenerzy &#x1F4DA;
 

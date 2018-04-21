@@ -3,10 +3,14 @@
 /* Display Twitter handle on each slides (without first) */
 
 .remark-slide-container:nth-of-type(n + 2) .remark-slide-content:after {
-    content: '@piecioshka';
+    content: '@warsawjs';
     position: absolute;
     left: 20px;
     bottom: 12px;
     font-weight: 300;
     opacity: 0.5;
+}
+
+.remark-slide-content.no-display-twitter-handler:after {
+    display: none;
 }
