@@ -1,7 +1,7 @@
 class: middle, center, slide-1
 
 .size130[
-# WarsawJS Workshop #18
+# WarsawJS Workshop #19
 ]
 
 ---
@@ -17,7 +17,7 @@ class: middle, center
 
 # Obiad
 
-## [bit.ly/warsawjs-workshop-18-lunch][lunch]
+## [bit.ly/warsawjs-workshop-19-lunch][lunch]
 
 ---
 
@@ -25,7 +25,7 @@ class: middle, center
 
 # Slack
 
-## #workshop-18
+## #workshop-19
 
 *Dostęp możliwy, kiedy dostaniesz zaproszenie.*
 <br/>
@@ -38,7 +38,7 @@ class: middle, center, slide-card-list
 
 ### Organizatorzy
 
-.card[![](./images/avatars-hosts/piotr-kowalski.jpg) Piotr Kowalski]
+.card[![](./images/avatars-hosts/piotr-kowalski.jpeg) Piotr Kowalski]
 .card[![](./images/avatars-hosts/katarzyna-grabowska.jpg) Katarzyna Grabowska]
 .card[![](./images/avatars-hosts/piotr-zientara.jpg) Piotr Zientara]
 
@@ -48,11 +48,12 @@ class: middle, center, slide-card-list
 
 ### Wolontariusze
 
-.card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz]
-.card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
-.card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
-.card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak]
 .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova]
+.card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak]
+.card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
+.card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz]
+.card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
+.card[![](./images/avatars-volunteers/michal-szymczyk.jpg) Michał Szymczyk]
 
 ---
 
@@ -60,11 +61,11 @@ class: middle, center, slide-card-list
 
 ### &#x1F4DA; Trenerzy &#x1F4DA;
 
-.card[![](./images/avatars-trainers/piotr-kowalski.jpg) Piotr Kowalski]
-.card[![](./images/avatars-trainers/tatiana-platonova.jpg) Tatiana Platonova]
+.card[![](./images/avatars-trainers/piotr-kowalski.jpeg) Piotr Kowalski]
 .card[![](./images/avatars-trainers/piotr-zientara.jpg) Piotr Zientara]
-.card[![](./images/avatars-trainers/daniel-siwek.jpg) Daniel Siwek]
-.card[![](./images/avatars-trainers/leonid-logvinov.png) Leonid Logvinov]
+.card[![](./images/avatars-trainers/tatiana-platonova.jpg) Tatiana Platonova]
+.card[![](./images/avatars-trainers/piotr-leniec.jpeg) Piotr Leniec]
+.card[![](./images/avatars-trainers/mateusz-sojda.jpeg) Mateusz Sojda]
 
 ---
 
@@ -115,8 +116,10 @@ class: middle, center
 # 💎 Nazwa projektu 💎
 
 .size50[
-## <mark>warsawjs-workshop-18-topics-manager</mark>
+## <mark>warsawjs-workshop-19-???</mark>
 ]
+
+To zależy...
 
 ---
 
@@ -124,7 +127,7 @@ class: middle, center
 
 .size40[
 * Kodowanie kończymy o **18:00**
-* Ankieta: [bit.ly/warsawjs-workshop-18-ankieta][ankieta]
+* Ankieta: [bit.ly/warsawjs-workshop-19-ankieta][ankieta]
 * **Chętni wychodzą na scenę ze swoim projektem**
 * &#x2728; Bonus na zakończenie! &#x2728; 
 ]
@@ -170,15 +173,13 @@ class: middle, center
 class: slide-1
 
 .size70[
-# WarsawJS Workshop #18
+# WarsawJS Workshop #19
 ]
 
 .size40[
 * Zrób zdjęcie, opublikuj je z hashtagiem `#warsawjs` i wygraj konkurs! &#x1F455;
 * Zakończenie kodowania **18:00** &#x26D4;
 * Ankieta: [bit.ly/warsawjs-workshop-18-ankieta][ankieta]
-
-Nazwa projektu: `warsawjs-workshop-18-topics-manager`
 ]
 
 
@@ -197,7 +198,7 @@ class: middle, center
 # Koniec &#x23F0; o <mark>18:00</mark>
 
 ## &#x2728; Dyplomy &#x2728;
-## Ankieta: [bit.ly/warsawjs-workshop-18-ankieta][ankieta]
+## Ankieta: [bit.ly/warsawjs-workshop-19-ankieta][ankieta]
 
 ---
 
@@ -243,8 +244,8 @@ class: center, middle
 ]
 
 
-[ankieta]: http://bit.ly/warsawjs-workshop-14-ankieta
-[lunch]: http://bit.ly/warsawjs-workshop-14-lunch
+[ankieta]: http://bit.ly/warsawjs-workshop-19-ankieta
+[lunch]: http://bit.ly/warsawjs-workshop-19-lunch
 [twitter-hashtag]: https://twitter.com/hashtag/warsawjs?f=tweets&vertical=default
 [instagram-hashtag]: https://www.instagram.com/explore/tags/warsawjs/
 [facebook-hashtag]: https://www.facebook.com/hashtag/warsawjs
