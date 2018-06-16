@@ -1,7 +1,7 @@
 class: middle, center, slide-1
 
 .size130[
-# WarsawJS Workshop #20
+# WarsawJS Workshop #21
 ]
 
 ---
@@ -17,7 +17,7 @@ class: middle, center
 
 # Obiad
 
-## [bit.ly/warsawjs-workshop-20-lunch][lunch]
+## [bit.ly/warsawjs-workshop-21-lunch][lunch]
 
 ---
 
@@ -25,7 +25,7 @@ class: middle, center
 
 # Slack
 
-## #workshop-20
+## #workshop-21
 
 *Dostęp możliwy, kiedy dostaniesz zaproszenie.*
 <br/>
@@ -53,6 +53,7 @@ class: middle, center, slide-card-list
 .card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
 .card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz]
 .card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
+.card[![](./images/avatars-volunteers/michal-szymczyk.jpg) Michał Szymczak]
 
 ---
 
@@ -62,15 +63,15 @@ class: middle, center, slide-card-list, no-display-twitter-handler
 
 .card[![](./images/avatars-trainers/andriy-mykulyak.jpg) Andriy Mykulyak]
 .card[![](./images/avatars-trainers/bartek-legiec.png) Bartek Legięć]
-.card[![](./images/avatars-trainers/kacper-pietrzak.jpg) Kacper Pietrzak]
+.card[![](./images/avatars-trainers/daniel-siwek.jpg) Daniel Siwek]
 .card[![](./images/avatars-trainers/kamil-gajowy.jpeg) Kamil Gajowy]
-.card[![](./images/avatars-trainers/mateusz-sojda.jpeg) Mateusz Sojda]
+.card[![](./images/avatars-trainers/michal-bury.png) Michał Bury]
 
 ---
 
-class: middle, center
+class: middle, center, slides-middle-images
 
-![](./images/sponsors/artificial-logo-400x200.jpg)
+![](./images/sponsors/softwarely-logo-500x381.png)
 ![](./images/sponsors/software-plant-logo-400x200.jpg)
 
 ---
@@ -115,7 +116,7 @@ class: middle, center
 # 💎 Nazwa projektu 💎
 
 .size50[
-## <mark>warsawjs-workshop-20-flights-search</mark>
+## <mark>warsawjs-workshop-21-flights-search</mark>
 ]
 
 
@@ -124,8 +125,8 @@ class: middle, center
 # Zakończenie
 
 .size40[
-* Kodowanie kończymy o **17:00**
-* Ankieta: [bit.ly/warsawjs-workshop-20-ankieta][ankieta]
+* Kodowanie kończymy o **18:00**
+* Ankieta: [bit.ly/warsawjs-workshop-21-ankieta][ankieta]
 * **Chętni wychodzą na scenę ze swoim projektem**
 * &#x2728; Bonus na zakończenie! &#x2728; 
 ]
@@ -171,13 +172,13 @@ class: middle, center
 class: slide-1
 
 .size70[
-# WarsawJS Workshop #20
+# WarsawJS Workshop #21
 ]
 
 .size40[
 * Zrób zdjęcie, opublikuj je z hashtagiem `#warsawjs` i wygraj konkurs! &#x1F455;
-* Zakończenie kodowania **17:00** &#x26D4;
-* Ankieta: [bit.ly/warsawjs-workshop-20-ankieta][ankieta]
+* Zakończenie kodowania **18:00** &#x26D4;
+* Ankieta: [bit.ly/warsawjs-workshop-21-ankieta][ankieta]
 ]
 
 
@@ -193,10 +194,10 @@ https://piecioshka.github.io/countdown/#10:00
 
 class: middle, center
 
-# Koniec &#x23F0; o <mark>17:00</mark>
+# Koniec &#x23F0; o <mark>18:00</mark>
 
 ## &#x2728; Dyplomy &#x2728;
-## Ankieta: [bit.ly/warsawjs-workshop-20-ankieta][ankieta]
+## Ankieta: [bit.ly/warsawjs-workshop-21-ankieta][ankieta]
 
 ---
 
@@ -242,8 +243,8 @@ class: center, middle
 ]
 
 
-[ankieta]: http://bit.ly/warsawjs-workshop-20-ankieta
-[lunch]: http://bit.ly/warsawjs-workshop-20-lunch
+[ankieta]: http://bit.ly/warsawjs-workshop-21-ankieta
+[lunch]: http://bit.ly/warsawjs-workshop-21-lunch
 [twitter-hashtag]: https://twitter.com/hashtag/warsawjs?f=tweets&vertical=default
 [instagram-hashtag]: https://www.instagram.com/explore/tags/warsawjs/
 [facebook-hashtag]: https://www.facebook.com/hashtag/warsawjs
