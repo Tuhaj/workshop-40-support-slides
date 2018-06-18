@@ -116,7 +116,7 @@ class: middle, center
 # 💎 Nazwa projektu 💎
 
 .size50[
-## <mark>warsawjs-workshop-21-flights-search</mark>
+## <mark>warsawjs-workshop-21-zeppelin</mark>
 ]
 
 
