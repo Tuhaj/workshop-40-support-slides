@@ -69,6 +69,16 @@ class: middle, center, slide-card-list, no-display-twitter-handler
 
 ---
 
+class: middle, center, slide-card-list, no-display-twitter-handler
+
+### &#x1F4DA; Trenerzy wspomagający &#x1F4DA;
+
+.card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz]
+.card[![](./images/avatars-trainers/kacper-pietrzak.jpg) Kacper Pietrzak]
+.card[![](./images/avatars-trainers/michal-drzazga.jpg) Michał Drzazga]
+
+---
+
 class: middle, center, slides-middle-images
 
 ![](./images/sponsors/softwarely-logo-500x381.png)
