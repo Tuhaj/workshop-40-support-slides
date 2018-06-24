@@ -41,5 +41,5 @@ const WORKSHOP_NUMBER = 21;
     }
 
     // Go go go!!!1
-    root.addEventListener('load', setup);
+    root.addEventListener('load', () => setTimeout(setup, 1000));
 })(this);
