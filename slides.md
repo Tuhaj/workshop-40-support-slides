@@ -79,10 +79,10 @@ class: middle, center, slide-card-list, no-display-twitter-handler
 
 ---
 
-class: middle, center, slides-middle-images
+class: middle, center, slide-middle-images
 
-![](./images/sponsors/softwarely-logo-500x381.png)
-![](./images/sponsors/software-plant-logo-400x200.jpg)
+![](./images/sponsors/softwarely-logo-500x300.png)
+![](./images/sponsors/software-plant-logo-500x300.png)
 
 ---
 
@@ -179,18 +179,21 @@ class: middle, center
 
 ---
 
-class: slide-1
+class: slide-1, slide-middle-images
 
 .size70[
 # WarsawJS Workshop #<span class="ordometer js-workshop-number">0</span>
 ]
 
 .size40[
-* Zrób zdjęcie, opublikuj je z hashtagiem `#warsawjs` i wygraj konkurs! &#x1F455;
+* Zrób zdjęcie &#x1F4F8; i opublikuj je z hashtagiem<br/>
+    `#warsawjs` aby wygrać konkurs! &#x1F455;
 * Zakończenie kodowania **18:00** &#x26D4;
 * Ankieta: [bit.ly/warsawjs-workshop-21-ankieta][ankieta]
+* Sponsorzy:
+![](./images/sponsors/softwarely-logo-250x150.jpg)
+![](./images/sponsors/software-plant-logo-250x150.jpg)
 ]
-
 
 ---
 
