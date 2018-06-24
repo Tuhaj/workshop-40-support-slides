@@ -53,7 +53,7 @@ class: middle, center, slide-card-list
 .card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
 .card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz]
 .card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
-.card[![](./images/avatars-volunteers/michal-szymczyk.jpg) Michał Szymczak]
+.card[![](./images/avatars-volunteers/michal-szymczyk.jpg) Michał Szymczyk]
 
 ---
 
