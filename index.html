@@ -4,8 +4,8 @@
     <title>WarsawJS: Workshop Support Slides</title>
     <meta charset="utf-8"/>
 
-    <link rel="icon" href="images/icons/warsawjs-logo-transparent-32x32.png"
-          type="image/png" sizes="32x32"/>
+    <link href="images/icons/warsawjs-logo-transparent-32x32.png"
+          rel="icon" type="image/png" sizes="32x32"/>
 
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,800&amp;subset=latin-ext"
           rel="stylesheet"/>
@@ -20,21 +20,16 @@
     <link rel="stylesheet" href="styles/slide-front-page.css"/>
     <link rel="stylesheet" href="styles/slide-invert-colors.css"/>
     <link rel="stylesheet" href="styles/slides-middle-images.css"/>
-    <style>
-        textarea {
-            display: none;
-        }
-    </style>
+
+    <link rel="stylesheet" href="styles/vendors/odometer-theme-default.css"/>
+    <link rel="stylesheet" href="styles/vendors/remark-setup.css"/>
 </head>
 <body>
     <textarea id="source"></textarea>
-    <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
-    <script>
-        remark.create({
-            sourceUrl: 'slides.md',
-            ratio: '16:9',
-            countIncrementalSlides: false
-        });
-    </script>
+    <script src="scripts/vendors/remark-latest.min.js"></script>
+    <script src="scripts/remark-setup.js"></script>
+
+    <script src="scripts/vendors/odometer.min.js"></script>
+    <script src="scripts/odometer-setup.js"></script>
 </body>
 </html>

@@ -1,7 +1,7 @@
 class: middle, center, slide-1
 
 .size130[
-# WarsawJS Workshop #21
+# WarsawJS Workshop #<span class="ordometer js-workshop-number">0</span>
 ]
 
 ---
@@ -172,7 +172,7 @@ class: middle, center
 class: slide-1
 
 .size70[
-# WarsawJS Workshop #21
+# WarsawJS Workshop #<span class="ordometer js-workshop-number">0</span>
 ]
 
 .size40[
