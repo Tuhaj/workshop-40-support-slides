@@ -4,8 +4,11 @@
     box-sizing: border-box;
 }
 
-h1, h2, h3, h4, h5, h6 {
+body {
     font-family: 'Fira Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
     margin-top: 0;
 }
 
@@ -14,11 +17,11 @@ h1 {
 }
 
 h2 {
-    font-weight: 300;
+    font-weight: normal;
 }
 
 h3 {
-    border-bottom: 1px solid;
+    border-bottom: 1px solid #ccc;
     font-size: 45px !important;
 }
 
@@ -32,7 +35,7 @@ h6 small {
 }
 
 a {
-    color: #2034f4;
+    color: #2380e6;
     text-decoration: none;
 }
 
@@ -49,11 +52,18 @@ iframe {
 }
 
 code {
-    display: inline-block;
-    background: #444;
-    color: white;
+    background: #616161;
+    color: #fff;
     padding: 2px 15px;
     margin: 3px 0;
+    display: inline-block;
+}
+
+em {
+    display: inline-block;
+    padding: 0 15px;
+    background: #2380e6;
+    font-style: normal;
 }
 
 mark {
@@ -66,12 +76,9 @@ mark {
 
 .remark-slide-content {
     margin-top: 0;
-    font-family: 'Fira Sans', sans-serif;
     font-size: 26px;
 }
 
-/* -------------------------------------------------------------------------- */
-
-.remark-slide-content.slide-fullscreen-background {
-    background-size: contain;
+.slim {
+    font-weight: 100;
 }

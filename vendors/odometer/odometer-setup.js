@@ -1,16 +1,20 @@
-const WORKSHOP_NUMBER = 21;
-
 (function (root) {
     'use strict';
 
-    const doc = root.document;
-    let $numbers = null;
+    const ONE_SECOND = 1000;
+    const ENABLE_ODOMETER = true;
+    const ENABLE_RANDOMIZER = false;
 
-    function rand(from = 2000, to = 4000) {
+    function rand(from = ONE_SECOND * 2, to = ONE_SECOND * 4) {
         return Math.random() * (to - from) + from;
     }
 
     function render($element, number) {
+        if (!ENABLE_ODOMETER) {
+            $element.innerText = number;
+            return;
+        }
+
         const od = new Odometer({
             el: $element,
             value: 0
@@ -19,27 +23,35 @@ const WORKSHOP_NUMBER = 21;
         od.update(number);
     }
 
-    function renderAll(number) {
+    function renderAll($numbers, number) {
         $numbers.forEach(($element) => {
             render($element, number);
         });
     }
 
-    function update() {
+    function randomizer($numbers) {
         const delay = ~~rand();
-
-        root.setTimeout(() => {
-            renderAll(~~(delay / 100));
-            update();
-        }, delay);
+        const value = ~~(delay / 100);
+        console.info('[randomizer] value', value);
+        renderAll($numbers, value);
     }
 
     function setup() {
-        $numbers = Array.from(doc.querySelectorAll('.js-workshop-number'));
-        renderAll(WORKSHOP_NUMBER);
-        update();
+        const $numbers = [...root.document.querySelectorAll('.js-workshop-number')];
+        const number = root.WORKSHOP_NUMBER;
+
+        if (!number) {
+            console.warn('[setup] Nie jest ustawiony numer warsztatu');
+            return;
+        }
+
+        renderAll($numbers, number);
+
+        if (ENABLE_RANDOMIZER) {
+            setInterval(() => randomizer($numbers), ONE_SECOND * 3);
+        }
     }
 
     // Go go go!!!1
-    root.addEventListener('load', () => setTimeout(setup, 1000));
+    root.addEventListener('load', () => setTimeout(setup, ONE_SECOND / 4));
 })(this);
