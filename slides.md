@@ -64,7 +64,7 @@ class: middle, center, slide-card-list, no-display-twitter-handle
 .card[![](./images/avatars-hosts/piotr-zientara.jpg) Piotr Zientara]
 .card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz]
 .card[![](./images/avatars-trainers/andriy-mykulyak.jpg) Andriy Mykulyak]
-.card[![](./images/avatars-trainers/rafal-pocztarski.jpeg) Rafał Pocztarski]
+.card[![](./images/avatars-trainers/rafal-pocztarski.jpg) Rafał Pocztarski]
 
 ---
 
@@ -74,7 +74,7 @@ class: middle, center, slide-card-list, no-display-twitter-handle
 
 .card[![](./images/avatars-trainers/bartek-legiec.png) Bartek Legięć]
 .card[![](./images/avatars-trainers/kamil-gajowy.jpeg) Kamil Gajowy]
-.card[![](./images/avatars-trainers/ula-kazmierczyk.jpeg) Ula Kaźmierczyk]
+.card[![](./images/avatars-trainers/ula-kazmierczyk.jpg) Ula Kaźmierczyk]
 
 ---
 
@@ -218,7 +218,8 @@ class: middle, center
 
 class: middle
 
-# Kto chce pochwalić się swoim projektem? &#x1F4A5;
+# Chwalimy się! &#x1F4A5;
+# Wyjdźcie na scenę i opowiedzcie czego się dziś nauczyliście
 
 1. Opis podstawowych funkcjonalności (przeklikanie)
 2. Pokazanie unikalnego feature-a
