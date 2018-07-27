@@ -17,7 +17,7 @@ class: middle, center
 
 # Obiad
 
-## [bit.ly/warsawjs-workshop-22-lunch][lunch]
+## <https://bit.ly/warsawjs-workshop-23-lunch>
 
 ---
 
@@ -25,7 +25,7 @@ class: middle, center
 
 # Slack
 
-## #workshop-22
+## #workshop-23
 
 **Dostęp możliwy, kiedy dostaniesz zaproszenie.**
 
@@ -73,7 +73,6 @@ class: middle, center, slide-card-list, no-display-twitter-handle
 ### Trenerzy wspomagający
 
 .card[![](./images/avatars-trainers/bartek-legiec.png) Bartek Legięć]
-.card[![](./images/avatars-trainers/kamil-gajowy.jpeg) Kamil Gajowy]
 .card[![](./images/avatars-trainers/ula-kazmierczyk.jpg) Ula Kaźmierczyk]
 
 ---
@@ -126,7 +125,7 @@ class: middle, center
 # 💎 Nazwa projektu 💎
 
 .size50[
-## <mark>warsawjs-workshop-22-zeppelin</mark>
+## <mark>warsawjs-workshop-23-*</mark>
 ]
 
 
@@ -134,9 +133,9 @@ class: middle, center
 
 # Zakończenie
 
-.size40[
+.size30[
 * Kodowanie kończymy o **18:00**
-* Ankieta: [bit.ly/warsawjs-workshop-22-ankieta][ankieta]
+* Ankieta: <https://bit.ly/warsawjs-workshop-23-ankieta>
 * **Chętni wychodzą na scenę ze swoim projektem**
 * &#x2728; Bonus na zakończenie! &#x2728; 
 ]
@@ -189,7 +188,7 @@ class: slide-1, slide-middle-images
 * Zrób zdjęcie &#x1F4F8; i opublikuj je z hashtagiem<br/>
     `#warsawjs` aby wygrać konkurs! &#x1F455;
 * Zakończenie kodowania **18:00** &#x26D4;
-* Ankieta: [bit.ly/warsawjs-workshop-22-ankieta][ankieta]
+* Ankieta: <https://bit.ly/warsawjs-workshop-23-ankieta>
 * Sponsorzy:
 ![](./images/sponsors/softwarely-logo-250x150.jpg)
 ![](./images/sponsors/software-plant-logo-250x150.jpg)
@@ -212,14 +211,19 @@ class: middle, center
 # Koniec &#x23F0; o <mark>18:00</mark>
 
 ## &#x2728; Dyplomy &#x2728;
-## Ankieta: [bit.ly/warsawjs-workshop-22-ankieta][ankieta]
+
+.size40[
+Ankieta: <https://bit.ly/warsawjs-workshop-23-ankieta>
+]
 
 ---
 
 class: middle
 
 # Chwalimy się! &#x1F4A5;
-# Wyjdźcie na scenę i opowiedzcie czego się dziś nauczyliście
+## Wyjdźcie na scenę i opowiedzcie<br/>czego się dziś nauczyliście
+
+???
 
 1. Opis podstawowych funkcjonalności (przeklikanie)
 2. Pokazanie unikalnego feature-a
@@ -258,9 +262,6 @@ class: center, middle
 📢 Dziękujemy 📢 
 ]
 
-
-[ankieta]: http://bit.ly/warsawjs-workshop-22-ankieta
-[lunch]: http://bit.ly/warsawjs-workshop-22-lunch
 [twitter-hashtag]: https://twitter.com/hashtag/warsawjs?f=tweets&vertical=default
 [instagram-hashtag]: https://www.instagram.com/explore/tags/warsawjs/
 [facebook-hashtag]: https://www.facebook.com/hashtag/warsawjs
