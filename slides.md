@@ -61,7 +61,7 @@ class: middle, center, slide-card-list, no-display-twitter-handle
 ### Trenerzy
 
 .card[![](./images/avatars-hosts/piotr-kowalski.jpg) Piotr Kowalski]
-.card[![](./images/avatars-hosts/piotr-zientara.jpg) Piotr Zientara]
+.card[![](./images/avatars-trainers/mateusz-sojda.jpeg) Mateusz Sojda]
 .card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz]
 .card[![](./images/avatars-trainers/andriy-mykulyak.jpg) Andriy Mykulyak]
 .card[![](./images/avatars-trainers/rafal-pocztarski.jpg) Rafał Pocztarski]
@@ -72,8 +72,7 @@ class: middle, center, slide-card-list, no-display-twitter-handle
 
 ### Trenerzy wspomagający
 
-.card[![](./images/avatars-trainers/bartek-legiec.png) Bartek Legięć]
-.card[![](./images/avatars-trainers/ula-kazmierczyk.jpg) Ula Kaźmierczyk]
+.card[![](./images/avatars-hosts/piotr-zientara.jpg) Piotr Zientara]
 
 ---
 
@@ -88,7 +87,7 @@ class: middle, center, slide-middle-images, slide-fullscreen-content
 
 * Podział na grupy pod kątem zaawansowania (efekt selekcji)
 
-> **Jeśli trafiłeś do grupy z nieodpowiednim dla Ciebie poziomem, daj znać!**
+**Jeśli trafiłeś do grupy z nieodpowiednim dla Ciebie poziomem, daj znać!**
 
 * Trener decyduje o prędkości realizacji projektu
 * Zajęcia grupowe - pomagamy sobie nawzajem
