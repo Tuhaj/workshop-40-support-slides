@@ -45,14 +45,17 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 class: middle, center, slide-card-list
 
-### Wolontariusze
+### Wolontariusze tego wydarzenia
 
 .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova]
 .card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak]
 .card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
+
+<!--
 .card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz]
 .card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
 .card[![](./images/avatars-volunteers/michal-szymczyk.jpg) Michał Szymczyk]
+//-->
 
 ---
 
@@ -61,13 +64,14 @@ class: middle, center, slide-card-list, no-display-twitter-handle
 ### Trenerzy
 
 .card[![](./images/avatars-hosts/piotr-kowalski.jpg) Piotr Kowalski]
+.card[![](./images/avatars-trainers/andriy-mykulyak.jpg) Andriy Mykulyak]
 .card[![](./images/avatars-trainers/mateusz-sojda.jpeg) Mateusz Sojda]
 .card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz]
-.card[![](./images/avatars-trainers/andriy-mykulyak.jpg) Andriy Mykulyak]
 .card[![](./images/avatars-trainers/rafal-pocztarski.jpg) Rafał Pocztarski]
 
 ---
 
+exclude: true
 class: middle, center, slide-card-list, no-display-twitter-handle
 
 ### Trenerzy wspomagający
