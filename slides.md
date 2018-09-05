@@ -17,7 +17,7 @@ class: middle, center
 
 # Obiad
 
-## <https://bit.ly/warsawjs-workshop-23-lunch>
+## <https://bit.ly/warsawjs-workshop-24-lunch>
 
 ---
 
@@ -25,7 +25,7 @@ class: middle, center
 
 # Slack
 
-## #workshop-23
+## #workshop-24
 
 **Dostęp możliwy, kiedy dostaniesz zaproszenie.**
 
@@ -50,10 +50,10 @@ class: middle, center, slide-card-list
 .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova]
 .card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak]
 .card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
+.card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
 
 <!--
 .card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz]
-.card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
 .card[![](./images/avatars-volunteers/michal-szymczyk.jpg) Michał Szymczyk]
 //-->
 
@@ -76,13 +76,13 @@ class: middle, center, slide-card-list, no-display-twitter-handle
 
 ### Trenerzy wspomagający
 
-.card[![](./images/avatars-hosts/piotr-zientara.jpg) Piotr Zientara]
+.card[![](./images/avatars-trainers/bartek-legiec.png) Bartek Legięć]
 
 ---
 
 class: middle, center, slide-middle-images, slide-fullscreen-content
 
-![](./images/sponsors/softwarely-logo-500x300.png)
+<!-- ![](./images/sponsors/softwarely-logo-500x300.png) -->
 ![](./images/sponsors/software-plant-logo-500x300.png)
 
 ---
@@ -114,7 +114,7 @@ exclude: true
 
 ### Przerwy
 
-* Przerwa kawowa: **11:30 - 11:45** 
+* Przerwa kawowa: **11:30 - 11:45**
 * Przerwa obiadowa: **13:00 - 13:30**
 * Przerwa kawowa: **15:30 - 15:45**
 
@@ -128,7 +128,7 @@ class: middle, center
 # 💎 Nazwa projektu 💎
 
 .size50[
-## <mark>warsawjs-workshop-23-*</mark>
+## <mark>warsawjs-workshop-24-*</mark>
 ]
 
 
@@ -138,9 +138,9 @@ class: middle, center
 
 .size30[
 * Kodowanie kończymy o **18:00**
-* Ankieta: <https://bit.ly/warsawjs-workshop-23-ankieta>
+* Ankieta: <https://bit.ly/warsawjs-workshop-24-ankieta>
 * **Chętni wychodzą na scenę ze swoim projektem**
-* &#x2728; Bonus na zakończenie! &#x2728; 
+* &#x2728; Bonus na zakończenie! &#x2728;
 ]
 
 ---
@@ -191,9 +191,9 @@ class: slide-1, slide-middle-images
 * Zrób zdjęcie &#x1F4F8; i opublikuj je z hashtagiem<br/>
     `#warsawjs` aby wygrać konkurs! &#x1F455;
 * Zakończenie kodowania **18:00** &#x26D4;
-* Ankieta: <https://bit.ly/warsawjs-workshop-23-ankieta>
+* Ankieta: <https://bit.ly/warsawjs-workshop-24-ankieta>
 * Sponsorzy:
-![](./images/sponsors/softwarely-logo-250x150.jpg)
+<!-- ![](./images/sponsors/softwarely-logo-250x150.jpg) -->
 ![](./images/sponsors/software-plant-logo-250x150.jpg)
 ]
 
@@ -216,7 +216,7 @@ class: middle, center
 ## &#x2728; Dyplomy &#x2728;
 
 .size40[
-Ankieta: <https://bit.ly/warsawjs-workshop-23-ankieta>
+Ankieta: <https://bit.ly/warsawjs-workshop-24-ankieta>
 ]
 
 ---
@@ -262,7 +262,7 @@ class: center, middle
 <hr/>
 
 .size40[
-📢 Dziękujemy 📢 
+📢 Dziękujemy 📢
 ]
 
 [twitter-hashtag]: https://twitter.com/hashtag/warsawjs?f=tweets&vertical=default
