@@ -66,7 +66,6 @@ class: middle, center, slide-card-list, no-display-twitter-handle
 .card[![](./images/avatars-hosts/piotr-kowalski.jpg) Piotr Kowalski]
 .card[![](./images/avatars-trainers/andriy-mykulyak.jpg) Andriy Mykulyak]
 .card[![](./images/avatars-trainers/mateusz-sojda.jpeg) Mateusz Sojda]
-.card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz]
 .card[![](./images/avatars-trainers/rafal-pocztarski.jpg) Rafał Pocztarski]
 
 ---
