@@ -1,4 +1,4 @@
-class: middle, center, slide-1
+class: middle, center, slide-front-page
 
 .size130[
 # WarsawJS Workshop #<span class="ordometer js-workshop-number">???</span>
@@ -54,7 +54,6 @@ class: middle, center, slide-card-list
 
 <!--
 .card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz]
-.card[![](./images/avatars-volunteers/michal-szymczyk.jpg) Michał Szymczyk]
 //-->
 
 ---
@@ -79,7 +78,7 @@ class: middle, center, slide-card-list, no-display-twitter-handle
 
 ---
 
-class: middle, center, slide-middle-images, slide-fullscreen-content
+class: middle, center, slide-middle-images
 
 <!-- ![](./images/sponsors/softwarely-logo-500x300.png) -->
 ![](./images/sponsors/software-plant-logo-500x300.png)
@@ -180,7 +179,7 @@ class: middle, center
 
 ---
 
-class: slide-1, slide-middle-images
+class: slide-front-page, slide-middle-images
 
 .size70[
 # WarsawJS Workshop #<span class="ordometer js-workshop-number">???</span>
@@ -200,7 +199,7 @@ class: slide-1, slide-middle-images
 
 class: middle, center
 
-# Odliczanie czasu do końca warsztatów
+# Odliczanie czasu<br/>do końca warsztatów
 
 .size40[
 [piecioshka.github.io/countdown](https://piecioshka.github.io/countdown/#10:00)
