@@ -1,7 +1,9 @@
 class: middle, center, slide-front-page
 
 .size130[
+
 # WarsawJS Workshop #<span class="ordometer js-workshop-number">???</span>
+
 ]
 
 ---
@@ -17,7 +19,7 @@ class: middle, center
 
 # Obiad
 
-## <https://bit.ly/warsawjs-workshop-24-lunch>
+## <https://bit.ly/warsawjs-workshop-25-lunch>
 
 ---
 
@@ -25,7 +27,7 @@ class: middle, center
 
 # Slack
 
-## #workshop-24
+## #workshop-25
 
 **Dostęp możliwy, kiedy dostaniesz zaproszenie.**
 
@@ -63,9 +65,8 @@ class: middle, center, slide-card-list, no-display-twitter-handle
 ### Trenerzy
 
 .card[![](./images/avatars-hosts/piotr-kowalski.jpg) Piotr Kowalski]
-.card[![](./images/avatars-trainers/andriy-mykulyak.jpg) Andriy Mykulyak]
-.card[![](./images/avatars-trainers/mateusz-sojda.jpeg) Mateusz Sojda]
-.card[![](./images/avatars-trainers/rafal-pocztarski.jpg) Rafał Pocztarski]
+.card[![](./images/avatars-trainers/daniel-szymanek.jpg) Daniel Szymanek]
+.card[![](./images/avatars-trainers/marcin-hagmajer.jpg) Marcin Hagmajer]
 
 ---
 
@@ -103,14 +104,14 @@ A najważniejsza zasada to...
 class: middle, center
 
 .size70[
+
 # Żadne pytanie nie jest głupie!
+
 ]
 
 ---
 
-exclude: true
-
-### Przerwy
+## Przerwy
 
 * Przerwa kawowa: **11:30 - 11:45**
 * Przerwa obiadowa: **13:00 - 13:30**
@@ -126,19 +127,22 @@ class: middle, center
 # 💎 Nazwa projektu 💎
 
 .size50[
-## <mark>warsawjs-workshop-24-*</mark>
-]
 
+## <mark>warsawjs-workshop-25-*</mark>
+
+]
 
 ---
 
 # Zakończenie
 
 .size30[
+
 * Kodowanie kończymy o **18:00**
-* Ankieta: <https://bit.ly/warsawjs-workshop-24-ankieta>
+* Ankieta: <https://bit.ly/warsawjs-workshop-25-ankieta>
 * **Chętni wychodzą na scenę ze swoim projektem**
 * &#x2728; Bonus na zakończenie! &#x2728;
+
 ]
 
 ---
@@ -146,7 +150,9 @@ class: middle, center
 class: middle, center
 
 .size120[
+
 # Poznajmy się &#x1F600;
+
 ]
 
 ---
@@ -168,7 +174,9 @@ class: middle
 # Pokaż jak się koduje! &#x1F600;
 
 ## 1. Zrób zdjęcie podczas warsztatów
+
 ## 2. Opublikuj w mediach z tagiem `#warsawjs`
+
 ## 3. Weź udział w losowaniu upominku! &#x1F455;
 
 ---
@@ -182,17 +190,21 @@ class: middle, center
 class: slide-front-page, slide-middle-images
 
 .size70[
+
 # WarsawJS Workshop #<span class="ordometer js-workshop-number">???</span>
+
 ]
 
 .size40[
+
 * Zrób zdjęcie &#x1F4F8; i opublikuj je z hashtagiem<br/>
     `#warsawjs` aby wygrać konkurs! &#x1F455;
 * Zakończenie kodowania **18:00** &#x26D4;
-* Ankieta: <https://bit.ly/warsawjs-workshop-24-ankieta>
+* Ankieta: <https://bit.ly/warsawjs-workshop-25-ankieta>
 * Sponsorzy:
-<!-- ![](./images/sponsors/softwarely-logo-250x150.jpg) -->
-![](./images/sponsors/software-plant-logo-250x150.jpg)
+    <!-- ![](./images/sponsors/softwarely-logo-250x150.jpg) -->
+    ![](./images/sponsors/software-plant-logo-250x150.jpg)
+
 ]
 
 ---
@@ -214,7 +226,7 @@ class: middle, center
 ## &#x2728; Dyplomy &#x2728;
 
 .size40[
-Ankieta: <https://bit.ly/warsawjs-workshop-24-ankieta>
+Ankieta: <https://bit.ly/warsawjs-workshop-25-ankieta>
 ]
 
 ---
@@ -222,6 +234,7 @@ Ankieta: <https://bit.ly/warsawjs-workshop-24-ankieta>
 class: middle
 
 # Chwalimy się! &#x1F4A5;
+
 ## Wyjdźcie na scenę i opowiedzcie<br/>czego się dziś nauczyliście
 
 ???
@@ -238,7 +251,9 @@ class: middle, center
 # Losowanie nagród &#x1F381;
 
 ## [Twitter][twitter-hashtag]: `#warsawjs`
+
 ## [Instagram][instagram-hashtag]: `#warsawjs`
+
 ## [Facebook][facebook-hashtag]: `#warsawjs`
 
 ---
