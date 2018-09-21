@@ -8,9 +8,49 @@ class: middle, center, slide-front-page
 
 ---
 
-class: middle, center
+class: middle, center, slide-invert-colors, no-logo
 
-# I część: organizacyjna
+## Robimy konferencje!
+
+![](images/Confront_vertical_white_RGB.png)
+
+29 października 2018
+
+---
+
+class: slide-invert-colors, no-logo
+
+# ConFrontJS 2018
+
+.size30[
+
+* Sprzedaż biletów: <var>Uruchomiona!</var>
+* Call for papers: <var>Ogłoszone!</var>
+* Gdzie? _Campus Warsaw_
+* Kiedy? _29 października_
+* Limit miejsc: _150_
+
+]
+
+---
+
+class: slide-invert-colors, no-logo
+
+# ConFrontJS 2018
+
+.size50.text-center[
+
+Zostań sponsorem! 💸
+
+]
+
+.size50[
+
+* Gold 🥇
+* Silver 🥈
+* Bronze 🥉
+
+]
 
 ---
 
