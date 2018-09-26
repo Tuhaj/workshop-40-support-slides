@@ -89,14 +89,12 @@ class: middle, center, slide-card-list
 
 ### Wolontariusze tego wydarzenia
 
-.card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova]
 .card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak]
 .card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
-.card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
 
-<!--
-.card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz]
-//-->
+<!-- .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova] -->
+<!-- .card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora] -->
+<!-- .card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz] -->
 
 ---
 
@@ -107,15 +105,16 @@ class: middle, center, slide-card-list, no-display-twitter-handle
 .card[![](./images/avatars-hosts/piotr-kowalski.jpg) Piotr Kowalski]
 .card[![](./images/avatars-trainers/daniel-szymanek.jpg) Daniel Szymanek]
 .card[![](./images/avatars-trainers/marcin-hagmajer.jpg) Marcin Hagmajer]
+.card[![](./images/avatars-trainers/vivek-patel.jpg) Vivek Patel]
+.card[![](./images/avatars-trainers/daniel-siwek.jpg) Daniel Siwek]
 
 ---
 
-exclude: true
 class: middle, center, slide-card-list, no-display-twitter-handle
 
 ### Trenerzy wspomagający
 
-.card[![](./images/avatars-trainers/bartek-legiec.png) Bartek Legięć]
+.card[![](./images/avatars-trainers/kamil-gajowy.jpeg) Kamil Gajowy]
 
 ---
 
