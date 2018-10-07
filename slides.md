@@ -24,8 +24,8 @@ class: slide-invert-colors, no-logo
 
 .size30[
 
-* Sprzedaż biletów: <var>Uruchomiona!</var>
-* Call for papers: <var>Ogłoszone!</var>
+* Sprzedaż biletów: <var>Uruchomiona!</var><br/><https://eventil.com/events/confrontjs-2018>
+* Call for papers: <var>Kończy się!</var><br/><https://eventil.com/events/confrontjs-2018/cfp>
 * Gdzie? _Campus Warsaw_
 * Kiedy? _29 października_
 * Limit miejsc: _150_
@@ -89,11 +89,11 @@ class: middle, center, slide-card-list
 
 ### Wolontariusze tego wydarzenia
 
-.card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak]
+.card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
 .card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
 
+<!-- .card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak] -->
 <!-- .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova] -->
-<!-- .card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora] -->
 <!-- .card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz] -->
 
 ---
@@ -115,13 +115,15 @@ class: middle, center, slide-card-list, no-display-twitter-handle
 ### Trenerzy wspomagający
 
 .card[![](./images/avatars-trainers/kamil-gajowy.jpeg) Kamil Gajowy]
+.card[![](./images/avatars-trainers/konrad-kowalski.jpg) Konrad Kowalski]
 
 ---
 
-class: middle, center, slide-middle-images
+class: middle, center, slide-middle-images, no-logo
 
-<!-- ![](./images/sponsors/softwarely-logo-500x300.png) -->
-![](./images/sponsors/software-plant-logo-500x300.png)
+![](./images/sponsors/logo-cosmose-500x300.png)
+<!-- ![](./images/sponsors/logo-softwarely-500x300.png) -->
+![](./images/sponsors/logo-software-plant-500x300.png)
 
 ---
 
@@ -241,8 +243,9 @@ class: slide-front-page, slide-middle-images
 * Zakończenie kodowania **18:00** &#x26D4;
 * Ankieta: <https://bit.ly/warsawjs-workshop-25-ankieta>
 * Sponsorzy:
-    <!-- ![](./images/sponsors/softwarely-logo-250x150.jpg) -->
-    ![](./images/sponsors/software-plant-logo-250x150.jpg)
+    ![](./images/sponsors/logo-cosmose-250x150.jpg)
+    <!-- ![](./images/sponsors/logo-softwarely-250x150.jpg) -->
+    ![](./images/sponsors/logo-software-plant-250x150.jpg)
 
 ]
 
