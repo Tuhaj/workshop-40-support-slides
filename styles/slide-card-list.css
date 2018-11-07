@@ -20,7 +20,7 @@
     display: block;
 }
 
-/* Dodatkowa klasa, zaokrągla obrazki - dla organizatorów */
+/* Dodatkowa klasa, zaokrągla obrazki — dla organizatorów */
 .slide-card-list-rounded img {
     border-radius: 50%;
 }
