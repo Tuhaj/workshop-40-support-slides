@@ -72,9 +72,11 @@ class: middle, center, slide-card-list, no-display-twitter-handle, no-logo
 
 ]
 
+<!-- .card[![](images/logo/logo-transparent-200x200.png)] -->
+
 .card[![](./images/avatars-hosts/piotr-kowalski.jpg) Piotr Kowalski]
-.card[![](images/logo/logo-transparent-200x200.png)]
 .card[![](./images/avatars-hosts/piotr-zientara.jpg) Piotr Zientara]
+.card[![](./images/avatars-trainers/kamil-gajowy.jpg) Kamil Gajowy]
 .card[![](./images/avatars-trainers/piotr-lysik.jpeg) Piotr Łysik]
 .card[![](./images/avatars-trainers/nataliya-pasichnyk.jpeg) Nataliya Pasichnyk]
 .card[![](./images/avatars-trainers/wojtek-przechodzen.jpeg) Wojtek Przechodzeń]
@@ -101,7 +103,7 @@ class: middle, center, slide-card-list, no-display-twitter-handle, no-logo
 .card[![](./images/avatars-trainers/barbara-klosowska.jpeg) Barbara Kłosowska]
 .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova]
 
-<!-- .card[![](./images/avatars-trainers/kamil-gajowy.jpeg) Kamil Gajowy] -->
+<!-- .card[![](./images/avatars-trainers/kamil-gajowy.jpg) Kamil Gajowy] -->
 <!-- .card[![](./images/avatars-trainers/konrad-kowalski.jpg) Konrad Kowalski] -->
 
 ---
@@ -114,9 +116,10 @@ class: middle, center, slide-middle-images, no-logo
 
 ]
 
-<!-- ![](./images/sponsors/logo-cosmose-500x300.png) -->
-<!-- ![](./images/sponsors/logo-softwarely-500x300.png) -->
-![](./images/sponsors/logo-software-plant-500x300.png)
+<!-- ![](./images/sponsors/logo-cosmose-450x270.png) -->
+<!-- ![](./images/sponsors/logo-softwarely-450x270.png) -->
+![](./images/sponsors/logo-kiwi-450x270.png)
+![](./images/sponsors/logo-software-plant-450x270.png)
 
 ---
 
@@ -245,6 +248,7 @@ class: slide-front-page, slide-middle-images
 * Sponsorzy:
     <!-- ![](./images/sponsors/logo-cosmose-250x150.jpg) -->
     <!-- ![](./images/sponsors/logo-softwarely-250x150.jpg) -->
+    ![](./images/sponsors/logo-kiwi-250x150.jpg)
     ![](./images/sponsors/logo-software-plant-250x150.jpg)
 
 ]
