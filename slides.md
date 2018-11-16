@@ -51,14 +51,14 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 ---
 
+exclude: true
 class: middle, center, slide-card-list
 
 ## Wolontariusze <span class="slim">(tego wydarzenia)</span>
 
-.card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
-.card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak]
-.card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova]
-
+<!-- .card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak] -->
+<!-- .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova] -->
+<!-- .card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk] -->
 <!-- .card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora] -->
 <!-- .card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz] -->
 
