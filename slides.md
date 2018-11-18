@@ -99,7 +99,7 @@ class: middle, center, slide-card-list, no-display-twitter-handle, no-logo
 .card[![](./images/avatars-trainers/ula-kazmierczyk.jpg) Ula Kaźmierczyk]
 .card[![](./images/avatars-trainers/barbara-klosowska.jpeg) Barbara Kłosowska]
 .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova]
-.card[![](./images/avatars-trainers/bartek-legiec.jpeg) Bartłomiej Legięć]
+.card[![](./images/avatars-trainers/bartek-legiec.jpeg) Bartosz Legięć]
 .card[![](images/logo/logo-transparent-200x200.png)]
 
 <!-- .card[![](./images/avatars-trainers/kamil-gajowy.jpg) Kamil Gajowy] -->
@@ -107,7 +107,7 @@ class: middle, center, slide-card-list, no-display-twitter-handle, no-logo
 
 ---
 
-class: middle, center, slide-middle-images, no-logo
+class: middle, center, slide-middle-images, no-logo, block
 
 .size50[
 
@@ -247,7 +247,7 @@ class: slide-front-page, slide-middle-images
 * Sponsorzy:
     <!-- ![](./images/sponsors/logo-cosmose-250x150.jpg) -->
     <!-- ![](./images/sponsors/logo-softwarely-250x150.jpg) -->
-    ![](./images/sponsors/logo-kiwi-250x150.jpg)
+    ![](./images/sponsors/logo-kiwi-250x150.png)
     ![](./images/sponsors/logo-software-plant-250x150.jpg)
 
 ]
