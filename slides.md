@@ -56,7 +56,7 @@ class: middle, center, slide-card-list
 
 ## Wolontariusze <span class="slim">(tego wydarzenia)</span>
 
-<!-- .card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak] -->
+.card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak]
 <!-- .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova] -->
 <!-- .card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk] -->
 <!-- .card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora] -->
@@ -96,12 +96,11 @@ class: middle, center, slide-card-list, no-display-twitter-handle, no-logo
 
 ]
 
-.card[![](./images/avatars-trainers/bartek-legiec.jpeg) Bartłomiej Legięć]
-.card[![](images/logo/logo-transparent-200x200.png)]
-.card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak]
 .card[![](./images/avatars-trainers/ula-kazmierczyk.jpg) Ula Kaźmierczyk]
 .card[![](./images/avatars-trainers/barbara-klosowska.jpeg) Barbara Kłosowska]
 .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova]
+.card[![](./images/avatars-trainers/bartek-legiec.jpeg) Bartłomiej Legięć]
+.card[![](images/logo/logo-transparent-200x200.png)]
 
 <!-- .card[![](./images/avatars-trainers/kamil-gajowy.jpg) Kamil Gajowy] -->
 <!-- .card[![](./images/avatars-trainers/konrad-kowalski.jpg) Konrad Kowalski] -->
