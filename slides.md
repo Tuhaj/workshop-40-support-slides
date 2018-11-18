@@ -121,6 +121,17 @@ class: middle, center, slide-middle-images, no-logo, block
 ![](./images/sponsors/logo-software-plant-450x270.png)
 
 ---
+class: middle, center, slide-middle-images, no-logo, block
+
+.size50[
+
+# Thank you Campus!
+
+]
+
+![](./images/sponsors/campus.jpg)
+
+---
 
 .size50[
 
