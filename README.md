@@ -1,6 +1,10 @@
 # WarsawJS: Workshop Support Slides
 
-![](./images/logo/logo-black-200x200.png)
+<img
+    src="https://warsawjs.com/static/images/logos/logo-warsawjs.svg"
+    alt=""
+    width="300"
+/>
 
 ## License
 
