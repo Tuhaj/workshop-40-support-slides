@@ -115,6 +115,19 @@ class: middle, center, slide-middle-images, no-logo
 
 .size50[
 
+# Partnerzy
+
+]
+
+![](./images/sponsors/microsoft.jpg)
+![](./images/sponsors/jetbrains.png)
+
+---
+
+class: middle, center, slide-middle-images, no-logo
+
+.size50[
+
 # Thank you!
 
 ]
