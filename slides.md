@@ -39,8 +39,8 @@ class: middle, center, slide-card-list
 ## Wolontariusze <span class="slim">(tego wydarzenia)</span>
 
 .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova]
-.card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
 
+<!-- .card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk] -->
 <!-- .card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak] -->
 <!-- .card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora] -->
 <!-- .card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz] -->
@@ -86,9 +86,9 @@ class: middle, center, slide-card-list, no-display-twitter-handle, no-logo
 ]
 
 .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova]
-.card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
 .card[![](images/logo/logo-transparent-200x200.png)]
 
+<!-- .card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk] -->
 <!-- .card[![](./images/avatars-trainers/przemyslaw-rzad.jpg) Przemysław Rząd] -->
 <!-- .card[![](./images/avatars-trainers/ula-kazmierczyk.jpg) Ula Kaźmierczyk] -->
 <!-- .card[![](./images/avatars-trainers/barbara-klosowska.jpeg) Barbara Kłosowska] -->
