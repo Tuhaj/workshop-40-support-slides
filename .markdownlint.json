@@ -31,7 +31,8 @@
             "span",
             "samp",
             "var",
-            "br"
+            "br",
+            "img"
         ]
     }
 }
