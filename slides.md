@@ -347,23 +347,20 @@ class: middle, no-logo, slide-card-list
 
 ---
 
-class: center, middle, no-logo
+class: center, middle, no-logo, invert-colors, no-display-twitter-handle
 
-# Prośba
-
-<hr/>
+# WarsawJS [MasterClass](https://warsawjs.com/masterclass) 👑
 
 .size50[
-🙏 Wyrzućcie swoje śmieci do kosza 🙏
+Zniżka dla Was: <var>20%</var> <img src="./images/icons/tag.png" style="width: 60px; vertical-align: bottom;"/><br/>
+Kupon: `workshop-29`
 ]
 
-<hr/>
-
-.size60[
-
-## Dziękujemy!
-
-]
+<span style="color: grey">2 dni</span>
+,
+<span style="color: grey">zaawansowane tematy</span>
+,
+<span style="color: grey">brak selekcji (limit 10 miejsc)</span>
 
 [twitter-hashtag]: https://twitter.com/hashtag/warsawjs?f=tweets&vertical=default
 [instagram-hashtag]: https://www.instagram.com/explore/tags/warsawjs/
