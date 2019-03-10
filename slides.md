@@ -313,8 +313,6 @@ class: middle
 
 ## Wyjdźcie na scenę i opowiedzcie<br/>czego się dziś nauczyliście!
 
-???
-
 1. Opis podstawowych funkcjonalności (przeklikanie)
 2. Pokazanie unikalnego feature-a
 3. Najfajniejsze miejsce w kodzie
@@ -326,11 +324,9 @@ class: middle
 
 # Losowanie nagród &#x1F381;
 
-## • [Twitter][twitter-hashtag]: `#warsawjs`
-
-## • [Instagram][instagram-hashtag]: `#warsawjs`
-
-## • [Facebook][facebook-hashtag]: `#warsawjs`
+* [Twitter](https://twitter.com/hashtag/warsawjs?f=tweets&vertical=default): `#warsawjs`
+* [Instagram](https://www.instagram.com/explore/tags/warsawjs/): `#warsawjs`
+* [Facebook](https://www.facebook.com/hashtag/warsawjs): `#warsawjs`
 
 ---
 
@@ -363,9 +359,5 @@ Kupon: `workshop-30`
 <span style="color: grey">zaawansowane tematy</span>
 ,
 <span style="color: grey">brak selekcji (limit 10 miejsc)</span>
-
-[twitter-hashtag]: https://twitter.com/hashtag/warsawjs?f=tweets&vertical=default
-[instagram-hashtag]: https://www.instagram.com/explore/tags/warsawjs/
-[facebook-hashtag]: https://www.facebook.com/hashtag/warsawjs
 
 <!-- Fullscreen background: 1210 x 681 -->
