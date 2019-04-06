@@ -203,7 +203,7 @@ class: middle, center
 
 .size50[
 
-## <mark>warsawjs-workshop-31-*</mark>
+## <mark>warsawjs-workshop-31-calendar</mark>
 
 ]
 
@@ -357,14 +357,17 @@ class: center, middle, no-logo, invert-colors, no-display-twitter-handle
 # WarsawJS [MasterClass](https://warsawjs.com/masterclass) 👑
 
 .size50[
-Zniżka dla Was: <var>20%</var> <img src="./images/icons/tag.png" style="width: 60px; vertical-align: bottom;"/><br/>
+Zniżka dla Was: <var>20%</var>
+<img
+    src="./images/icons/tag.png"
+    style="width: 60px; vertical-align: bottom;"
+/>
+<br/>
 Kupon: `workshop-31`
 ]
 
-<span style="color: grey">2 dni</span>
-,
-<span style="color: grey">zaawansowane tematy</span>
-,
+<span style="color: grey">2 dni</span>,
+<span style="color: grey">zaawansowane tematy</span>,
 <span style="color: grey">brak selekcji (limit 10 miejsc)</span>
 
 <!-- Fullscreen background: 1210 x 681 -->
