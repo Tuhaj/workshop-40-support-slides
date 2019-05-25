@@ -38,15 +38,16 @@ class: middle, center, slide-card-list
 
 .size50[
 
-# Wolontariusze <span class="slim">(tego wydarzenia)</span>
+# Wolontariusze
 
 ]
 
 .card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
 .card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
-.card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak]
 
-<!-- .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova] -->
+.card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak]
+.card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova]
+
 <!-- .card[![](./images/avatars-volunteers/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
 
 ---
@@ -60,7 +61,7 @@ class: middle, center, slide-card-list
 ]
 
 .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova]
-.card[![](./images/avatars-trainers/daniel-szymanek.jpg) Daniel Szymanek]
+.card[![](./images/avatars-hosts/piotr-zientara.jpg) Piotr Zientara]
 .card[![](./images/avatars-trainers/kamil-grabek.jpg) Kamil Grabek]
 .card[![](./images/avatars-trainers/michal-bury.jpg) Michał Bury]
 .card[![](./images/avatars-trainers/daniel-siwek.jpg) Daniel Siwek]
@@ -122,9 +123,9 @@ class: middle, center, slide-middle-images, no-logo
 ]
 
 ![](./images/sponsors/logo-microsoft-450x270.png)
+![](./images/sponsors/logo-softwarely-450x270.png)
 
 <!-- ![](./images/sponsors/logo-software-plant-450x270.png) -->
-<!-- ![](./images/sponsors/logo-softwarely-450x270.png) -->
 <!-- ![](./images/sponsors/logo-ethworks-450x270.png) -->
 <!-- ![](./images/sponsors/logo-cosmose-450x270.png) -->
 <!-- ![](./images/sponsors/logo-kiwi-450x270.png) -->
@@ -345,30 +346,14 @@ background-image: url('images/community.jpg')
 
 ---
 
+class: no-logo, slide-fullscreen-background
+background-image: url(images/masterclass/Baner_JavaScript.png)
+
+---
+
 class: middle, no-logo, slide-card-list
 
 .card.size70[Dziękujemy<br/>za&nbsp;obecność!]
 .card[![](images/logo/logo-transparent-200x200.png)]
-
----
-
-exclude: true
-class: center, middle, no-logo, invert-colors, no-display-twitter-handle
-
-# WarsawJS [MasterClass](https://warsawjs.com/masterclass) 👑
-
-.size50[
-Zniżka dla Was: <var>20%</var>
-<img
-    src="./images/icons/tag.png"
-    style="width: 60px; vertical-align: bottom;"
-/>
-<br/>
-Kupon: `workshop-31`
-]
-
-<span style="color: grey">2 dni</span>,
-<span style="color: grey">zaawansowane tematy</span>,
-<span style="color: grey">brak selekcji (limit 10 miejsc)</span>
 
 <!-- Fullscreen background: 1210 x 681 -->
