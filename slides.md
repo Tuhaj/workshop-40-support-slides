@@ -23,7 +23,7 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 ---
 
 class: no-logo, slide-fullscreen-background
-background-image: url(images/masterclass/Baner_JavaScript.png)
+background-image: url(images/masterclass/Baner_React.png)
 
 ---
 
@@ -35,12 +35,11 @@ class: middle, center, slide-card-list
 
 ]
 
-.card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
-.card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
-
-.card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak]
 .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova]
 
+<!-- .card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk] -->
+<!-- .card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora] -->
+<!-- .card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak] -->
 <!-- .card[![](./images/avatars-volunteers/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
 
 ---
@@ -55,10 +54,11 @@ class: middle, center, slide-card-list
 
 .card[![](./images/avatars-hosts/piotr-kowalski.jpg) Piotr Kowalski]
 .card[![](./images/avatars-trainers/michal-szklarski.jpg) Michał Szklarski]
+
 .card[![](./images/avatars-trainers/lukasz-borawski.jpg) Łukasz Borawski]
 .card[![](./images/avatars-trainers/jakub-skalecki.jpg) Jakub Skałecki]
-.card[![](./images/avatars-trainers/pawel-mysior.jpg) Paweł Mysior]
 
+<!-- .card[![](./images/avatars-trainers/pawel-mysior.jpg) Paweł Mysior] -->
 <!-- .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova] -->
 <!-- .card[![](./images/avatars-hosts/piotr-zientara.jpg) Piotr Zientara] -->
 <!-- .card[![](./images/avatars-trainers/kamil-grabek.jpg) Kamil Grabek] -->
@@ -94,8 +94,9 @@ class: middle, center, slide-card-list, no-display-twitter-handle, no-logo
 
 ]
 
+.card[![](./images/avatars-trainers/jacek-mikrut.jpg) Jacek Mikrut]
 .card[![](./images/avatars-trainers/ula-kazmierczyk.jpg) Ula Kaźmierczyk]
-.card[![](images/logo/logo-transparent-200x200.png)]
+.card[![](./images/logo/logo-transparent-200x200.png)]
 
 <!-- .card[![](./images/avatars-trainers/piotr-lysik.jpeg) Piotr Łysik] -->
 <!-- .card[![](./images/avatars-trainers/kamil-gebala.jpg) Kamil Gebała] -->
@@ -316,34 +317,53 @@ class: middle, center
 
 # Koniec &#x23F0; o <mark>18:00</mark>
 
-## &#x2728; Dyplomy &#x2728;
+---
 
-.size40[
-Ankieta: [bit.ly/warsawjs-workshop-33-ankieta](https://bit.ly/warsawjs-workshop-33-ankieta)
-]
+class: middle
+
+# [1/4] Ankieta 📑
+
+## [bit.ly/warsawjs-workshop-33-ankieta](https://bit.ly/warsawjs-workshop-33-ankieta)
+
+* Dziękujemy za wypełnienie ankiet
+* Dzięki nim możemy się rozwijać
+* Ankieta jest anonimowa
 
 ---
 
 class: middle
 
-# Chwalimy się! &#x1F4A5;
+# [2/4] Chwalimy się! &#x1F4A5;
 
 ## Wyjdźcie na scenę i opowiedzcie<br/>czego się dziś nauczyliście!
 
 1. Opis podstawowych funkcjonalności (przeklikanie)
-2. Pokazanie unikalnego feature-a
-3. Najfajniejsze miejsce w kodzie
-4. Jaki jest największy problem?
+2. Najfajniejsze miejsce w kodzie
+3. Jaki jest największy problem?
 
 ---
 
 class: middle
 
-# Losowanie nagród &#x1F381;
+# [3/4] Certyfikaty 🏆
 
-* [Twitter](https://twitter.com/hashtag/warsawjs?f=tweets&vertical=default): `#warsawjs`
-* [Instagram](https://www.instagram.com/explore/tags/warsawjs/): `#warsawjs`
-* [Facebook](https://www.facebook.com/hashtag/warsawjs): `#warsawjs`
+## ...dla trenerów!
+
+* Bardzo dziękujemy za przygotowanie materiałów
+* Za całodzienne przekazywanie swojej wiedzy
+* Oraz że z uśmiechem opowiadaliście swoje doświadczenia
+
+---
+
+class: middle
+
+# [4/4] Nagrody &#x1F381;
+
+## Losowanie na podstawie zdjęć z `#warsawjs`
+
+* [Twitter](https://twitter.com/hashtag/warsawjs?f=tweets&vertical=default)
+* [Instagram](https://www.instagram.com/explore/tags/warsawjs/)
+* [Facebook](https://www.facebook.com/hashtag/warsawjs)
 
 ---
 
@@ -354,9 +374,25 @@ background-image: url('images/community.jpg')
 
 ---
 
-class: middle, no-logo, slide-card-list
+class: middle, center, no-logo
+
+.slide-card-list[
 
 .card.size70[Dziękujemy<br/>za&nbsp;obecność!]
 .card[![](images/logo/logo-transparent-200x200.png)]
+
+]
+
+<hr/>
+
+<mark>Sponsorzy</mark>
+
+![](./images/sponsors/logo-microsoft-250x150.jpg)
+
+<!-- ![](./images/sponsors/logo-software-plant-250x150.jpg) -->
+<!-- ![](./images/sponsors/logo-softwarely-250x150.jpg) -->
+<!-- ![](./images/sponsors/logo-ethworks-250x150.jpg) -->
+<!-- ![](./images/sponsors/logo-cosmose-250x150.jpg) -->
+<!-- ![](./images/sponsors/logo-kiwi-250x150.png) -->
 
 <!-- Fullscreen background: 1210 x 681 -->
