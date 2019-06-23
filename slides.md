@@ -53,10 +53,10 @@ class: middle, center, slide-card-list
 ]
 
 .card[![](./images/avatars-hosts/piotr-kowalski.jpg) Piotr Kowalski]
-.card[![](./images/avatars-trainers/michal-szklarski.jpg) Michał Szklarski]
-
 .card[![](./images/avatars-trainers/lukasz-borawski.jpg) Łukasz Borawski]
+
 .card[![](./images/avatars-trainers/jakub-skalecki.jpg) Jakub Skałecki]
+.card[![](./images/avatars-trainers/michal-szklarski.jpg) Michał Szklarski]
 
 <!-- .card[![](./images/avatars-trainers/pawel-mysior.jpg) Paweł Mysior] -->
 <!-- .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova] -->
@@ -272,7 +272,8 @@ class: middle, center
 
 # Koniec części organizacyjnej
 
-Zapraszamy mentora na scenę 👨🏼‍🏫
+<!-- Zapraszamy mentora na scenę 👨🏼‍🏫 -->
+Zapraszamy do kodu! 👩‍💻 • 👨‍💻
 
 ---
 
