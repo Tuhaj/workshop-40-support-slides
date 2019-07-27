@@ -6,6 +6,3 @@
     width="300"
 />
 
-## License
-
-[The MIT License](http://en.wikipedia.org/wiki/MIT_License) @ 2018
