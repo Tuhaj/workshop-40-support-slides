@@ -22,12 +22,6 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 ---
 
-exclude: true
-class: no-logo, slide-fullscreen-background
-background-image: url(images/masterclass/Baner_React.png)
-
----
-
 class: middle, center, slide-card-list
 
 .size50[
@@ -222,7 +216,7 @@ class: middle, center
 
 .size50[
 
-## <mark>warsawjs-workshop-35-*</mark>
+## <mark>warsawjs-workshop-35-legacy-code</mark>
 
 ]
 
@@ -273,6 +267,12 @@ class: middle
 ## 2. Opublikuj w mediach z tagiem `#warsawjs`
 
 ## 3. Weź udział w losowaniu upominku! &#x1F455;
+
+---
+
+exclude: false
+class: no-logo, slide-fullscreen-background
+background-image: url(images/masterclass/Baner_Temat.png)
 
 ---
 
