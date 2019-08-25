@@ -276,6 +276,12 @@ background-image: url(images/masterclass/Baner_Temat.png)
 
 ---
 
+exclude: false
+class: no-logo, slide-fullscreen-background
+background-image: url(images/confrontjs/Facebook_1920x1080px.jpg)
+
+---
+
 class: middle, center
 
 # Koniec części organizacyjnej
