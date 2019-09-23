@@ -200,6 +200,16 @@ class: middle, center, no-logo
 
 ---
 
+class: middle, center
+
+.size70[
+
+# Kto jest pierwszy raz na wydarzeniu?
+
+]
+
+---
+
 # Przerwy 🏖
 
 .size50[
