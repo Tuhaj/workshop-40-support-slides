@@ -91,7 +91,7 @@ class: middle, center, slide-card-list
 <!-- .card[![](./images/avatars-trainers/marcin-hagmajer.jpg) Marcin Hagmajer] -->
 <!-- .card[![](./images/avatars-trainers/vivek-patel.jpg) Vivek Patel] -->
 
-<!-- ---
+---
 
 class: middle, center, slide-card-list, no-display-twitter-handle, no-logo
 
@@ -101,12 +101,13 @@ class: middle, center, slide-card-list, no-display-twitter-handle, no-logo
 
 ]
 
-.card[![](./images/avatars-trainers/piotr-szlachciak.jpg) Piotr Szlachciak]
+.card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
 .card[![](./images/avatars-trainers/genia-kai.jpg) Genia Kai]
-.card[![](./images/avatars-trainers/piotr-slawinski.jpg) Piotr Sławiński]
-.card[![](./images/avatars-trainers/nataliya-pasichnyk.jpg) Nataliya Pasichnyk]
-.card[![](./images/logo/logo-transparent-200x200.png)] -->
+.card[![](./images/logo/logo-transparent-200x200.png)]
 
+<!-- .card[![](./images/avatars-trainers/piotr-szlachciak.jpg) Piotr Szlachciak] -->
+<!-- .card[![](./images/avatars-trainers/piotr-slawinski.jpg) Piotr Sławiński] -->
+<!-- .card[![](./images/avatars-trainers/nataliya-pasichnyk.jpg) Nataliya Pasichnyk] -->
 <!-- .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova] -->
 <!-- .card[![](./images/avatars-trainers/bartek-legiec.jpeg) Bartosz Legięć] -->
 <!-- .card[![](./images/avatars-trainers/lukasz-basaj.jpg) Łukasz Basaj] -->
