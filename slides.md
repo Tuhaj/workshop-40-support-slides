@@ -134,8 +134,8 @@ class: middle, center, slide-middle-images, no-logo
 
 ![](./images/sponsors/logo-sumo-logic-450x270.png)
 ![](./images/sponsors/logo-madiff-450.png)
+![](./images/sponsors/logo-softwarely-450x270.png)
 
-<!-- ![](./images/sponsors/logo-softwarely-450x270.png) -->
 <!-- ![](./images/sponsors/logo-microsoft-450x270.png) -->
 <!-- ![](./images/sponsors/logo-software-plant-450x270.png) -->
 <!-- ![](./images/sponsors/logo-ethworks-450x270.png) -->
