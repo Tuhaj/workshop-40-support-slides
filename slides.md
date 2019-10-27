@@ -308,6 +308,22 @@ background-image: url(images/confrontjs/Facebook_1920x1080px.jpg)
 
 ---
 
+class: middle
+
+# Newsletter 💌
+
+## [newsletter.warsawjs.com](https://newsletter.warsawjs.com/)
+
+* **Życie** <span class="slim">(Projekty, Filmy, Artykuły)</span> Społeczności
+* Wydarzenia
+* <var>Zniżki</var>
+
+.box.right.size50[
+[<mark>Dodaj materiał</mark> ⭐](https://newsletter-submission.warsawjs.com)
+]
+
+---
+
 class: middle, center
 
 # Koniec części organizacyjnej
