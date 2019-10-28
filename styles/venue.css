@@ -1,0 +1,17 @@
+.venue {
+    background: red;
+    position: relative;
+}
+
+.venue .apla {
+    background: linear-gradient(45deg, black, transparent);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.venue .overlay {
+    position: relative;
+}

@@ -324,6 +324,29 @@ class: middle
 
 ---
 
+class: middle, no-logo, venue, slide-invert-colors
+background-image: url(images/venue/sumo-logic-venue.jpg)
+
+<div class="apla"></div>
+
+.overlay[
+
+# Venue
+
+.size40[
+
+* Toalety 🛁
+* Szatnie 🗝
+* Zasady w Kuchni 🍎
+    + Kubki do zmywarki
+    + Śmieci do kosza
+
+]
+
+]
+
+---
+
 class: middle, center
 
 # Koniec części organizacyjnej

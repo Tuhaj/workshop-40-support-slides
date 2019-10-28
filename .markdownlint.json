@@ -33,7 +33,8 @@
             "var",
             "br",
             "hr",
-            "img"
+            "img",
+            "div"
         ]
     }
 }
