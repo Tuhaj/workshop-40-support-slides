@@ -52,6 +52,8 @@ class: middle, center, slide-card-list
 .card[![](./images/avatars-hosts/piotr-kowalski.jpg) Piotr Kowalski]
 .card[![](./images/avatars-trainers/ivan-rukhavets.png) Ivan Rukhavets]
 .card[![](./images/avatars-trainers/michal-zalecki.png) Michał Załęcki]
+.card[![](./images/avatars-trainers/sijawusz-pur-rahnama.jpg) Sijawusz Pur Rahnama]
+.card[![](./images/avatars-hosts/piotr-zientara.jpg) Piotr Zientara]
 
 <!-- .card[![](./images/avatars-trainers/michal-bury.jpg) Michał Bury] -->
 <!-- .card[![](./images/avatars-trainers/robert-kawecki.jpg) Robert Kawecki] -->
