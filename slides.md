@@ -60,65 +60,14 @@ class: middle, center, slide-card-list, no-display-twitter-handle, no-logo
 
 ---
 
-class: middle, center, slide-middle-images, no-logo
-
-.size50[
-
-# Sponsorzy
-
-]
-
-![](./images/sponsors/logo-tooploox-450x250.png)
-<!-- ![](./images/sponsors/logo-sumo-logic-450x270.png) -->
-<!-- ![](./images/sponsors/logo-madiff-450.png) -->
-<!-- ![](./images/sponsors/logo-softwarely-450x270.png) -->
-<!-- ![](./images/sponsors/logo-microsoft-450x270.png) -->
-<!-- ![](./images/sponsors/logo-software-plant-450x270.png) -->
-<!-- ![](./images/sponsors/logo-ethworks-450x270.png) -->
-<!-- ![](./images/sponsors/logo-cosmose-450x270.png) -->
-<!-- ![](./images/sponsors/logo-kiwi-450x270.png) -->
-
----
-
-class: middle, center, slide-middle-images, no-logo, slide-card-list,
-
-
-.size50[
-
-# Partnerzy
-
-]
-
-.card[![](./images/partners/jetbrains.png)]
-.card[![](./images/partners/wallaby.svg) WALLABY]
-
----
-
-exclude: true
-class: middle, center, slide-middle-images, no-logo
-
-.size50[
-
-# Thank you!
-
-]
-
-![](./images/partners/campus-warsaw.jpg)
-![](./images/partners/google-for-startups.png)
-
----
-
 .size50[
 
 # Zasady współpracy 📋
 
 ]
 
-* Trener decyduje o prędkości realizacji projektu
-* Zajęcia grupowe — pomagamy sobie nawzajem
-* Odnosimy się do siebie po koleżeńsku
-
-A najważniejsza zasada to...
+* Na luzaku
+* Zamiast na efekt w kodzie, nastawienie na wiedzę i rozumienie problemów
 
 ---
 
@@ -126,7 +75,7 @@ class: middle, center
 
 .size70[
 
-# Żadne pytanie nie jest głupie!
+# Pytajcie o security!
 
 ]
 
@@ -140,17 +89,7 @@ class: middle, center, no-logo
 
 ## #workshop-40
 
-**Dostęp możliwy, kiedy dostaniesz zaproszenie.**
-
----
-
-class: middle, center
-
-.size70[
-
-# Kto jest pierwszy raz na wydarzeniu?
-
-]
+**Centrum komunikacji**
 
 ---
 
@@ -174,7 +113,7 @@ class: middle, center
 
 .size50[
 
-## <mark>warsawjs-workshop-40-*</mark>
+## <mark>warsawjs-workshop-40-4-security</mark>
 
 ]
 
@@ -186,22 +125,12 @@ class: middle, center
 
 * Kodowanie kończymy o **18:00**
 * Ankieta: [bit.ly/warsawjs-workshop-40-ankieta](https://bit.ly/warsawjs-workshop-40-ankieta)
-* **Zapraszamy na scenę, aby opowiedzieć o dzisiejszym doświadczeniu**
-* &#x2728; Bonus na zakończenie! &#x2728;
+* **Zapraszamy na scenę, aby opowiedzieć o dzisiejszym doświadczeniu - Prezenty dla chętnych**
 
 ]
 
 ---
 
-class: middle, center
-
-.size120[
-
-# Poznajmy się &#x1F600;
-
-]
-
----
 
 exclude: true
 class: middle, center, slide-card-list
@@ -228,49 +157,6 @@ class: middle
 
 ---
 
-
-
-class: middle
-
-# Newsletter 💌
-
-## [newsletter.warsawjs.com](https://newsletter.warsawjs.com/)
-
-* **Życie** <span class="slim">(Projekty, Filmy, Artykuły)</span> Społeczności
-* Wydarzenia
-* <var>Zniżki</var>
-
-.box.right.size50[
-[<mark>Dodaj materiał</mark> ⭐](https://bit.ly/warsawjs-newsletter-submission)
-]
-
----
-
-class: middle, center
-
-# Koniec części organizacyjnej
-
-<!-- Zapraszamy mentora na scenę 👨🏼‍🏫 -->
-Zapraszamy do kodu! 👩‍💻 • 👨‍💻
-
----
-
-class: middle, slide-invert-colors
-
-# Kodowanie...
-
----
-
-class: middle, center
-
-# Odliczanie czasu<br/>do końca warsztatów
-
-.size40[
-[piecioshka.github.io/countdown/#10:00](https://piecioshka.github.io/countdown/#10:00)
-]
-
----
-
 class: middle, center
 
 # Koniec &#x23F0; o <mark>18:00</mark>
@@ -279,7 +165,7 @@ class: middle, center
 
 class: middle
 
-# [1/5] Ankieta 📑
+# Ankieta 📑
 
 ## [bit.ly/warsawjs-workshop-40-ankieta](https://bit.ly/warsawjs-workshop-40-ankieta)
 
@@ -287,69 +173,3 @@ class: middle
 * Dzięki nim możemy się rozwijać
 * Ankieta jest anonimowa
 
----
-
-class: middle
-
-# [2/5] Chwalimy się! &#x1F4A5;
-
-## Wyjdźcie na scenę i opowiedzcie<br/>czego się dziś nauczyliście!
-
-1. Opis podstawowych funkcjonalności (przeklikanie)
-2. Najfajniejsze miejsce w kodzie
-3. Jaki jest największy problem?
-
----
-
-class: middle
-
-# [3/5] Nagrody &#x1F381;
-
-## Losowanie na podstawie zdjęć z `#warsawjs`
-
-* [Twitter](https://twitter.com/hashtag/warsawjs?f=tweets&vertical=default)
-* [Instagram](https://www.instagram.com/explore/tags/warsawjs/)
-* [Facebook](https://www.facebook.com/hashtag/warsawjs)
-
----
-
-class: middle
-
-# [4/5] Certyfikaty 🏆
-
-## ...dla trenerów!
-
-* Bardzo dziękujemy za przygotowanie materiałów
-* Za całodzienne przekazywanie swojej wiedzy
-* Oraz że z uśmiechem opowiadaliście swoje doświadczenia
-
----
-
-class: middle
-
-# [5/5] Dziękujemy ❤️
-
-* Trenerom regularnym,
-* Trenerom wspomagającym,
-* Wolontariuszom,
-* Sponsorom
-
----
-
-class: top, center, no-logo
-background-image: url('images/community.jpg')
-
-# <mark>Wspólne zdjęcie! 📸</mark>
-
----
-
-class: middle, center, no-logo
-
-.slide-card-list[
-
-.card.size70[Dziękujemy<br/>za&nbsp;obecność!]
-.card[![](images/logo/logo-transparent-200x200.png)]
-
-]
-
-<!-- Fullscreen background: 1210 x 681 -->
