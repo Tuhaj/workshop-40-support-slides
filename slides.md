@@ -66,8 +66,9 @@ class: middle, center, slide-card-list, no-display-twitter-handle, no-logo
 
 ]
 
-* Na luzaku
-* Zamiast na efekt w kodzie, nastawienie na wiedzę i rozumienie problemów
+### Na luzaku
+### Zamiast na efekt w kodzie, 
+### nastawienie na wiedzę i rozumienie problemów
 
 ---
 
@@ -75,7 +76,7 @@ class: middle, center
 
 .size70[
 
-# Pytajcie o security!
+# Pytajcie odważnie o security!
 
 ]
 
@@ -116,6 +117,83 @@ class: middle, center
 ## <mark>warsawjs-workshop-40-4-security</mark>
 
 ]
+
+---
+
+
+class: middle
+
+![](./images/workshop/web_security.jpg)
+
+---
+
+class: middle
+
+![](./images/workshop/session-layer-in-OSI-model.jpg)
+
+---
+
+class: middle
+
+## Who are the attackers and what is their point?
+1. Grey hats,
+2. Black hats, 
+3. Botnets, 
+4. People working in stealing data business
+
+---
+
+class: middle
+
+## Who are the attackers and what is their point?
+1. Grey hats,
+2. Black hats, 
+3. Botnets, 
+4. People working in stealing data business 
+
+---
+
+class: middle
+
+## What can we do?
+1. Promote AddBlock, encription, UBlock as "digital BHP"
+2. Create secure software
+3. We're programmers, so we need to teach others!
+
+---
+
+class: middle
+
+## Look at this piece of code 🤔
+
+```
+<img src="." onerror="alert('WarsawJS was here!')">
+```
+
+---
+
+
+class: middle
+
+## What we excercise?
+1. XSS - onet shackował naszą stronę! Z naszego localhost jesteśmy przekierowani na ich page i generujemy sztuczny ruch"
+2. Trick noopener
+3. CSS swap!
+
+
+---
+
+class: middle
+
+## Sources  
+
+1. https://owasp.org/
+2. http://vulnerable-bank.com/app_v3_banking.php
+3. https://medium.com/@baphemot/understanding-react-frontend-security-4963d35feea7
+4. https://owasp.org/www-community/attacks/xss/
+5. https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+6. https://en.wikipedia.org/wiki/Cross-site_request_forgery
+7. https://en.wikipedia.org/wiki/Session_layer
 
 ---
 
