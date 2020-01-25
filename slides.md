@@ -145,11 +145,38 @@ class: middle
 
 class: middle
 
-## Who are the attackers and what is their point?
-1. Grey hats,
-2. Black hats, 
-3. Botnets, 
-4. People working in stealing data business 
+## Quotes
+"We need to make one thing clear — <br>
+everything you put in the client browser can be easily changed by the client."
+
+"Backend is the deciding factor"
+
+
+---
+
+class: middle
+
+## Security
+1. Promote AddBlock, encription, UBlock as "digital BHP"
+2. Create secure software
+3. We're programmers, so we need to teach others!
+
+
+---
+
+class: middle
+
+## Security cases
+* alert box which is not an alert box! <br>
+"your system is very dirty! Can we clean it for 5$?"
+
+* Front-end has plenty of priviledges:
+frontend can run a sandbox operation system
+webGL, Shaders, Wasm
+* electron enables JS in desktop - there will be more security issues with JS, which is very complicated - as complicated as the backend - JS
+
+* Malware as a service - 20$ per month ;-)
+
 
 ---
 
@@ -164,6 +191,15 @@ class: middle
 
 class: middle
 
+## What can be the frontend issue?
+1. limit users from accessing certain parts of the site is not effective
+2. data is leaking (might happen we only hide some data on the Front-end)
+3. Front-end only validations (can be skipped by through inspector)
+
+---
+
+class: middle
+
 ## Look at this piece of code 🤔
 
 ```
@@ -172,6 +208,35 @@ class: middle
 
 ---
 
+class: middle, center, slide-middle-images, no-logo, slide-card-list,
+
+
+.size50[
+
+# Chinese attack on GitHub 
+
+]
+
+![](./images/workshop/great-wall.jpg)
+
+---
+
+
+class: middle, center, slide-middle-images, no-logo, slide-card-list,
+
+
+.size50[
+
+# Security issues on Frontend
+
+]
+
+1. XSS (Cross-Site Scripting)
+2. CSRF (Cross-Site Request Forgery)
+3. CORS (Cross-Origin Resource Sharing)
+
+
+---
 
 class: middle
 
@@ -179,6 +244,26 @@ class: middle
 1. XSS - onet shackował naszą stronę! Z naszego localhost jesteśmy przekierowani na ich page i generujemy sztuczny ruch"
 2. Trick noopener
 3. CSS swap!
+
+---
+
+class: middle
+
+## Server response codes
+* 401 - not authenticated
+* 403 - not authorized
+* 5** - server error 
+* 3** - redirect
+
+---
+
+class: middle
+
+## Some good frontend practices
+* use `Secure` flag on cookies
+* use `httpOnly` flag on requests
+* don't use innerHTML for form inputs as it can cause a script to run
+* use `rel=noopener` https://mathiasbynens.github.io/rel-noopener/
 
 
 ---
@@ -194,6 +279,7 @@ class: middle
 5. https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 6. https://en.wikipedia.org/wiki/Cross-site_request_forgery
 7. https://en.wikipedia.org/wiki/Session_layer
+8. https://mathiasbynens.github.io/rel-noopener/
 
 ---
 
