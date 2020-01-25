@@ -314,7 +314,7 @@ class: middle
 * <var>Zniżki</var>
 
 .box.right.size50[
-[<mark>Dodaj materiał</mark> ⭐](https://newsletter-submission.warsawjs.com)
+[<mark>Dodaj materiał</mark> ⭐](https://bit.ly/warsawjs-newsletter-submission)
 ]
 
 ---
