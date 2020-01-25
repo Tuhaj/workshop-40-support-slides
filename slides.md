@@ -8,93 +8,18 @@ class: middle, slide-front-page
 
 ---
 
-class: middle, center, slide-card-list, slide-card-list-rounded
-
-.size50[
-
-# Organizatorzy
-
-]
-
-.card[![](./images/avatars-hosts/piotr-kowalski.jpg) Piotr Kowalski]
-.card[![](./images/avatars-hosts/katarzyna-grabowska.jpg) Katarzyna Grabowska]
-.card[![](./images/avatars-hosts/piotr-zientara.jpg) Piotr Zientara]
-
----
 
 class: middle, center, slide-card-list
 
 .size50[
 
-# Wolontariusze
+# Trenerzy Grupy IV
 
 ]
 
-.card[![](./images/avatars-volunteers/anna-lukianova.jpg) Anna Lukianova]
-.card[![](./images/avatars-volunteers/lukasz-basaj.jpeg) Łukasz Basaj]
-
-<!-- .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova] -->
-<!-- .card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak] -->
-<!-- .card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora] -->
-<!-- .card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk] -->
-<!-- .card[![](./images/avatars-volunteers/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
-
----
-
-class: middle, center, slide-card-list
-
-.size50[
-
-# Trenerzy
-
-]
-
-.card[![](./images/avatars-hosts/piotr-kowalski.jpg) Piotr Kowalski]
-.card[![](./images/avatars-trainers/ivan-rukhavets.png) Ivan Rukhavets]
-.card[![](./images/avatars-trainers/michal-zalecki.png) Michał Załęcki]
 .card[![](./images/avatars-trainers/sijawusz-pur-rahnama.jpg) Sijawusz Pur Rahnama]
 .card[![](./images/avatars-hosts/piotr-zientara.jpg) Piotr Zientara]
 
-<!-- .card[![](./images/avatars-trainers/michal-bury.jpg) Michał Bury] -->
-<!-- .card[![](./images/avatars-trainers/robert-kawecki.jpg) Robert Kawecki] -->
-<!-- .card[![](./images/avatars-trainers/rafal-sosnowski.png) Rafał Sosnowski] -->
-<!-- .card[![](./images/avatars-trainers/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
-<!-- .card[![](./images/avatars-trainers/dmytro-maretskyi.JPG) Dmytro Maretskyi] -->
-<!-- .card[![](./images/avatars-trainers/chris-trzesniewski.jpeg) Chris Trześniewski] -->
-<!-- .card[![](./images/avatars-trainers/robert-gurgul.jpg) Robert Gurgul] -->
-<!-- .card[![](./images/avatars-trainers/rafal-pocztarski.jpg) Rafał Pocztarski] -->
-<!-- .card[![](./images/avatars-trainers/piotr-szlachciak.jpg) Piotr Szlachciak] -->
-<!-- .card[![](./images/avatars-trainers/przemek-strucinski.jpg) Przemysław Struciński] -->
-<!-- .card[![](./images/avatars-trainers/lukasz-basaj.jpg) Łukasz Basaj] -->
-<!-- .card[![](./images/avatars-trainers/krzysztof-lokaj.jpg) Krzysztof Łokaj] -->
-<!-- .card[![](./images/avatars-trainers/bartek-legiec.jpeg) Bartosz Legięć] -->
-<!-- .card[![](./images/avatars-trainers/jacek-mikrut.jpg) Jacek Mikrut] -->
-<!-- .card[![](./images/avatars-hosts/piotr-kowalski.jpg) Piotr Kowalski] -->
-<!-- .card[![](./images/avatars-trainers/piotr-szlachciak.jpg) Piotr Szlachciak] -->
-<!-- .card[![](./images/avatars-trainers/kamil-grabek.jpg) Kamil Grabek] -->
-<!-- .card[![](./images/avatars-trainers/lukasz-borawski.jpg) Łukasz Borawski] -->
-<!-- .card[![](./images/avatars-trainers/jakub-skalecki.jpg) Jakub Skałecki] -->
-<!-- .card[![](./images/avatars-trainers/michal-szklarski.jpg) Michał Szklarski] -->
-<!-- .card[![](./images/avatars-trainers/pawel-mysior.jpg) Paweł Mysior] -->
-<!-- .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova] -->
-<!-- .card[![](./images/avatars-hosts/piotr-zientara.jpg) Piotr Zientara] -->
-<!-- .card[![](./images/avatars-trainers/daniel-siwek.jpg) Daniel Siwek] -->
-<!-- .card[![](./images/avatars-trainers/rafal-pocztarski.jpg) Rafał Pocztarski] -->
-<!-- .card[![](./images/avatars-trainers/lukasz-godziejewski.jpg) Łukasz Godziejewski] -->
-<!-- .card[![](./images/avatars-trainers/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
-<!-- .card[![](./images/avatars-trainers/piotr-koszulinski.jpg) Piotrek Koszuliński] -->
-<!-- .card[![](./images/avatars-trainers/krzysztof-syrytczyk.jpg) Krzysztof Syrytczyk] -->
-<!-- .card[![](./images/avatars-trainers/nataliya-pasichnyk.jpeg) Nataliya Pasichnyk] -->
-<!-- .card[![](./images/avatars-trainers/anna-guz.jpg) Anna Guz] -->
-<!-- .card[![](./images/avatars-trainers/mateusz-chrzonstowski.jpg) Mateusz Chrzonstowski] -->
-<!-- .card[![](./images/avatars-trainers/andriy-mykulyak.jpg) Andriy Mykulyak] -->
-<!-- .card[![](./images/avatars-trainers/marek-kirejczyk.jpg) Marek Kirejczyk] -->
-<!-- .card[![](./images/avatars-trainers/bartlomiej-rutkowski.jpg) Bartłomiej Rutkowski] -->
-<!-- .card[![](./images/avatars-trainers/justyna-broniszewska.jpg) Justyna Broniszewska] -->
-<!-- .card[![](./images/avatars-trainers/kamil-gajowy.jpg) Kamil Gajowy] -->
-<!-- .card[![](./images/avatars-trainers/wojtek-przechodzen.jpeg) Wojtek Przechodzeń] -->
-<!-- .card[![](./images/avatars-trainers/marcin-hagmajer.jpg) Marcin Hagmajer] -->
-<!-- .card[![](./images/avatars-trainers/vivek-patel.jpg) Vivek Patel] -->
 
 ---
 
